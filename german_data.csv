@@ -1,0 +1,1001 @@
+loan_time,age,amount,n_credits,people,inst_rate,residence,checking,history,savings,job,job_status,property,housing,for,sex,debtor,OIP,telephone,foreign,default
+6,67,1169,2,1,4,4,< 0,critical,unk_nil,skilled / official,more than 7,real estate,own,rad_tel,male_single,none,none,1,1,2
+48,22,5951,1,1,2,2,0 to 200,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,female,none,none,2,1,1
+12,49,2096,1,2,2,3,none,critical,<100,unskilled (resident),4 to less than 7,real estate,own,edu,male_single,none,none,2,1,2
+42,45,7882,1,2,2,4,< 0,repaid,<100,skilled / official,4 to less than 7,BSSA/Life,free,fur_equ,male_single,guarantor,none,2,1,2
+24,53,4870,2,2,3,4,< 0,delayed,<100,skilled / official,1 to less than 4,UNK/None,free,car_new,male_single,none,none,2,1,1
+36,35,9055,1,2,2,4,none,repaid,unk_nil,unskilled (resident),1 to less than 4,UNK/None,free,edu,male_single,none,none,1,1,2
+24,53,2835,1,1,3,4,none,repaid,501 to 1000,skilled / official,more than 7,BSSA/Life,own,fur_equ,male_single,none,none,2,1,2
+36,35,6948,1,1,2,2,0 to 200,repaid,<100,man/self-em/HQ/off,1 to less than 4,Car/Other,rent,car_used,male_single,none,none,1,1,2
+12,61,3059,1,1,2,4,none,repaid,>1000,unskilled (resident),4 to less than 7,real estate,own,rad_tel,male_ds,none,none,2,1,2
+30,28,5234,2,1,4,2,0 to 200,critical,<100,man/self-em/HQ/off,unemployed,Car/Other,own,car_new,male_mw,none,none,2,1,1
+12,25,1295,1,1,3,1,0 to 200,repaid,<100,skilled / official,less than 1,Car/Other,rent,car_new,female,none,none,2,1,1
+48,24,4308,1,1,3,4,< 0,repaid,<100,skilled / official,less than 1,BSSA/Life,rent,business,female,none,none,2,1,1
+12,22,1567,1,1,1,1,0 to 200,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,none,1,1,2
+24,60,1199,2,1,4,4,< 0,critical,<100,unskilled (resident),more than 7,Car/Other,own,car_new,male_single,none,none,2,1,1
+15,28,1403,1,1,2,4,< 0,repaid,<100,skilled / official,1 to less than 4,Car/Other,rent,car_new,female,none,none,2,1,2
+24,32,1282,1,1,4,2,< 0,repaid,101 to 500,unskilled (resident),1 to less than 4,Car/Other,own,rad_tel,female,none,none,2,1,1
+24,53,2424,2,1,4,4,none,critical,unk_nil,skilled / official,more than 7,BSSA/Life,own,rad_tel,male_single,none,none,2,1,2
+30,25,8072,3,1,2,3,< 0,fully repaid,unk_nil,skilled / official,less than 1,Car/Other,own,business,male_single,none,bank,2,1,2
+24,44,12579,1,1,4,2,0 to 200,repaid,<100,man/self-em/HQ/off,more than 7,UNK/None,free,car_used,female,none,none,1,1,1
+24,31,3430,1,2,3,2,none,repaid,501 to 1000,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+9,48,2134,3,1,4,4,none,critical,<100,skilled / official,1 to less than 4,Car/Other,own,car_new,male_single,none,none,1,1,2
+6,44,2647,1,2,2,3,< 0,repaid,501 to 1000,skilled / official,1 to less than 4,real estate,rent,rad_tel,male_single,none,none,2,1,2
+10,48,2241,2,2,1,3,< 0,critical,<100,unskilled (resident),less than 1,real estate,rent,car_new,male_single,none,none,2,2,2
+12,44,1804,1,1,3,4,0 to 200,critical,101 to 500,skilled / official,less than 1,BSSA/Life,own,car_used,male_single,none,none,2,1,2
+10,26,2069,2,1,2,1,none,critical,unk_nil,skilled / official,1 to less than 4,Car/Other,own,fur_equ,male_mw,none,none,2,2,2
+6,36,1374,1,1,1,2,< 0,repaid,<100,unskilled (resident),1 to less than 4,real estate,own,fur_equ,male_single,none,bank,1,1,2
+6,39,426,1,1,4,4,none,fully repaid,<100,unskilled (resident),more than 7,Car/Other,own,rad_tel,male_mw,none,none,2,1,2
+12,42,409,2,1,3,3,> 201,fully repaid here,>1000,skilled / official,1 to less than 4,real estate,rent,rad_tel,female,none,none,2,1,2
+7,34,2415,1,1,3,2,0 to 200,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,male_single,guarantor,none,2,1,2
+60,63,6836,2,1,3,4,< 0,delayed,<100,skilled / official,more than 7,UNK/None,own,business,male_single,none,none,1,1,1
+18,36,1913,1,1,3,3,0 to 200,repaid,>1000,skilled / official,less than 1,real estate,own,business,male_mw,none,bank,1,1,2
+24,27,4020,1,1,2,2,< 0,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,fur_equ,male_single,none,stores,2,1,2
+18,30,5866,2,1,2,2,0 to 200,repaid,101 to 500,skilled / official,1 to less than 4,Car/Other,own,car_new,male_single,none,none,1,1,2
+12,57,1264,1,1,4,4,none,critical,unk_nil,unskilled (resident),more than 7,UNK/None,rent,business,male_single,none,none,2,1,2
+12,33,1474,1,1,4,1,> 201,repaid,<100,man/self-em/HQ/off,less than 1,BSSA/Life,own,fur_equ,female,none,bank,1,1,2
+45,25,4746,2,1,4,2,0 to 200,critical,<100,unskilled (resident),less than 1,BSSA/Life,own,rad_tel,male_single,none,none,2,1,1
+48,31,6110,1,1,1,3,none,critical,<100,skilled / official,1 to less than 4,UNK/None,free,edu,male_single,none,bank,1,1,2
+18,37,2100,1,1,4,2,> 201,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,male_single,coapplicant,stores,2,1,1
+10,37,1225,1,1,2,2,> 201,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,dom_app,male_single,none,none,1,1,2
+9,24,458,1,1,4,3,0 to 200,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,male_single,none,none,2,1,2
+30,30,2333,1,1,4,2,none,repaid,501 to 1000,man/self-em/HQ/off,more than 7,Car/Other,own,rad_tel,male_single,none,bank,2,1,2
+12,26,1158,1,1,3,1,0 to 200,repaid,501 to 1000,skilled / official,1 to less than 4,Car/Other,own,rad_tel,male_ds,none,none,1,1,2
+18,44,6204,1,2,2,4,0 to 200,delayed,<100,unskilled (resident),1 to less than 4,real estate,own,repairs,male_single,none,none,1,1,2
+30,24,6187,2,1,1,4,< 0,critical,101 to 500,skilled / official,4 to less than 7,Car/Other,rent,car_used,male_mw,none,none,2,1,2
+48,58,6143,2,1,4,4,< 0,critical,<100,unskilled (resident),more than 7,UNK/None,free,car_used,female,none,stores,2,1,1
+11,35,1393,2,1,4,4,none,critical,<100,man/self-em/HQ/off,less than 1,Car/Other,own,car_new,female,none,none,2,1,2
+36,39,2299,1,1,4,4,none,repaid,501 to 1000,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+6,23,1352,1,1,1,2,< 0,repaid,501 to 1000,unemp / unskill (non-res),unemployed,BSSA/Life,rent,car_used,female,none,none,1,1,2
+11,39,7228,2,1,1,4,none,critical,<100,unskilled (resident),1 to less than 4,BSSA/Life,own,car_new,male_single,none,none,2,1,2
+12,28,2073,1,1,4,2,none,repaid,101 to 500,skilled / official,1 to less than 4,real estate,own,rad_tel,female,coapplicant,none,2,1,2
+24,29,2333,1,1,4,2,0 to 200,delayed,unk_nil,unskilled (resident),less than 1,BSSA/Life,own,fur_equ,male_single,none,bank,2,1,2
+27,30,5965,2,1,1,2,0 to 200,delayed,<100,man/self-em/HQ/off,more than 7,Car/Other,own,car_used,male_single,none,none,1,1,2
+12,25,1262,1,1,3,2,none,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+18,31,3378,1,1,2,1,none,repaid,unk_nil,skilled / official,1 to less than 4,BSSA/Life,own,car_used,male_single,none,none,1,1,2
+36,57,2225,2,1,4,4,0 to 200,delayed,<100,skilled / official,more than 7,UNK/None,free,car_new,male_single,none,bank,1,1,1
+6,26,783,1,2,1,2,none,fully repaid here,unk_nil,unskilled (resident),1 to less than 4,real estate,own,car_new,male_single,guarantor,stores,2,1,2
+12,52,6468,1,1,2,1,0 to 200,repaid,unk_nil,man/self-em/HQ/off,unemployed,UNK/None,own,rad_tel,male_single,none,none,1,1,1
+36,31,9566,2,1,2,2,none,critical,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,stores,2,1,2
+18,23,1961,1,1,3,2,> 201,repaid,<100,man/self-em/HQ/off,more than 7,Car/Other,own,car_new,female,none,none,2,1,2
+36,23,6229,2,1,4,4,< 0,critical,<100,unskilled (resident),less than 1,UNK/None,rent,fur_equ,female,coapplicant,none,1,1,1
+9,27,1391,1,1,2,1,0 to 200,repaid,<100,skilled / official,1 to less than 4,real estate,own,business,male_mw,none,bank,1,1,2
+15,50,1537,2,1,4,4,0 to 200,critical,unk_nil,skilled / official,more than 7,real estate,own,rad_tel,male_single,guarantor,none,1,1,2
+36,61,1953,1,1,4,4,0 to 200,fully repaid,<100,man/self-em/HQ/off,more than 7,UNK/None,free,business,male_single,none,none,1,1,1
+48,25,14421,1,1,2,2,0 to 200,fully repaid,<100,skilled / official,1 to less than 4,Car/Other,own,business,male_single,none,none,1,1,1
+24,26,3181,1,1,4,4,none,repaid,<100,skilled / official,less than 1,BSSA/Life,own,rad_tel,female,none,none,1,1,2
+27,48,5190,4,2,4,4,none,repaid,unk_nil,skilled / official,more than 7,BSSA/Life,own,repairs,male_single,none,none,1,1,2
+12,29,2171,1,1,2,2,none,repaid,<100,skilled / official,less than 1,Car/Other,own,rad_tel,female,none,bank,2,1,2
+12,22,1007,1,1,4,1,0 to 200,repaid,>1000,skilled / official,1 to less than 4,real estate,own,car_new,male_mw,none,none,2,1,2
+36,37,1819,1,1,4,4,none,repaid,<100,skilled / official,1 to less than 4,UNK/None,free,edu,male_single,none,stores,1,1,1
+36,25,2394,1,1,4,4,none,repaid,unk_nil,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,none,2,1,2
+36,30,8133,1,1,1,2,none,repaid,<100,skilled / official,1 to less than 4,BSSA/Life,own,car_used,female,none,bank,2,1,2
+7,46,730,2,1,4,2,none,critical,unk_nil,unskilled (resident),more than 7,BSSA/Life,rent,rad_tel,male_single,none,none,1,1,2
+8,51,1164,2,2,3,4,< 0,critical,<100,man/self-em/HQ/off,more than 7,UNK/None,free,car_used,male_single,none,bank,1,1,2
+42,41,5954,2,1,2,1,0 to 200,critical,<100,unskilled (resident),4 to less than 7,real estate,own,business,female,none,bank,2,1,2
+36,40,1977,1,1,4,4,< 0,repaid,unk_nil,man/self-em/HQ/off,more than 7,UNK/None,own,edu,male_single,none,none,1,1,1
+12,66,1526,2,1,4,4,< 0,critical,<100,man/self-em/HQ/off,more than 7,UNK/None,free,car_used,male_single,none,none,2,1,2
+42,34,3965,1,1,4,3,< 0,repaid,<100,skilled / official,less than 1,Car/Other,own,rad_tel,male_single,none,none,2,1,1
+11,51,4771,1,1,2,4,0 to 200,delayed,<100,skilled / official,4 to less than 7,BSSA/Life,own,rad_tel,male_single,none,none,2,1,2
+54,39,9436,1,2,2,2,none,fully repaid,unk_nil,unskilled (resident),1 to less than 4,BSSA/Life,own,car_used,male_single,none,none,2,1,2
+30,22,3832,1,1,2,1,0 to 200,repaid,<100,skilled / official,less than 1,BSSA/Life,own,fur_equ,male_mw,none,none,2,1,2
+24,44,5943,2,1,1,1,none,repaid,unk_nil,skilled / official,less than 1,Car/Other,own,rad_tel,female,none,none,1,1,1
+15,47,1213,1,1,4,3,none,repaid,501 to 1000,skilled / official,more than 7,BSSA/Life,own,rad_tel,male_single,none,stores,1,1,2
+18,24,1568,1,1,3,4,none,repaid,101 to 500,unskilled (resident),1 to less than 4,BSSA/Life,rent,business,female,none,none,2,1,2
+24,58,1755,1,1,4,4,< 0,repaid,<100,unskilled (resident),more than 7,real estate,own,car_used,female,guarantor,none,1,1,2
+10,52,2315,1,1,3,4,< 0,repaid,<100,unskilled (resident),more than 7,real estate,own,rad_tel,male_single,none,none,2,1,2
+12,29,1412,2,1,4,2,none,critical,<100,man/self-em/HQ/off,1 to less than 4,real estate,own,business,female,guarantor,none,1,1,2
+18,27,1295,2,1,4,1,0 to 200,critical,<100,skilled / official,less than 1,BSSA/Life,own,fur_equ,female,none,none,2,1,2
+36,47,12612,1,2,1,4,0 to 200,repaid,101 to 500,skilled / official,1 to less than 4,UNK/None,free,edu,male_single,none,none,1,1,1
+18,30,2249,1,2,4,3,< 0,repaid,101 to 500,man/self-em/HQ/off,4 to less than 7,Car/Other,own,car_new,male_single,none,none,1,1,2
+12,28,1108,2,1,4,3,< 0,fully repaid,<100,skilled / official,4 to less than 7,real estate,own,repairs,male_single,none,none,2,1,1
+12,56,618,1,1,4,4,none,critical,<100,skilled / official,more than 7,real estate,own,rad_tel,male_single,none,none,2,1,2
+12,54,1409,1,1,4,3,< 0,critical,<100,skilled / official,more than 7,real estate,own,car_used,male_single,none,none,2,1,2
+12,33,797,1,2,4,3,none,critical,unk_nil,unskilled (resident),more than 7,BSSA/Life,own,rad_tel,female,none,bank,2,1,1
+24,20,3617,2,1,4,4,> 201,critical,unk_nil,skilled / official,more than 7,UNK/None,rent,fur_equ,male_single,coapplicant,none,2,1,2
+12,54,1318,1,1,4,4,0 to 200,repaid,>1000,skilled / official,more than 7,real estate,own,car_new,male_single,none,none,1,1,2
+54,58,15945,1,1,3,4,0 to 200,fully repaid,<100,skilled / official,less than 1,UNK/None,rent,business,male_single,none,none,1,1,1
+12,61,2012,1,1,4,2,none,critical,unk_nil,skilled / official,4 to less than 7,Car/Other,own,edu,female,none,none,2,1,2
+18,34,2622,1,1,4,4,0 to 200,repaid,101 to 500,skilled / official,1 to less than 4,Car/Other,own,business,male_single,none,none,2,1,2
+36,36,2337,1,1,4,4,0 to 200,critical,<100,skilled / official,more than 7,real estate,own,rad_tel,male_single,none,none,2,1,2
+20,36,7057,2,2,3,4,0 to 200,delayed,unk_nil,man/self-em/HQ/off,4 to less than 7,BSSA/Life,rent,car_used,male_single,none,bank,1,1,2
+24,41,1469,1,1,4,4,none,repaid,101 to 500,unskilled (resident),more than 7,real estate,rent,car_new,male_mw,none,none,2,1,2
+36,24,2323,1,1,4,4,0 to 200,repaid,<100,skilled / official,4 to less than 7,Car/Other,rent,rad_tel,male_single,none,none,2,1,2
+6,24,932,1,1,3,2,none,delayed,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,female,none,none,2,1,2
+9,35,1919,1,1,4,3,0 to 200,critical,<100,skilled / official,4 to less than 7,Car/Other,rent,fur_equ,male_single,none,none,1,1,2
+12,26,2445,1,1,2,4,none,repaid,unk_nil,skilled / official,less than 1,Car/Other,rent,car_used,male_mw,none,none,1,1,2
+24,39,11938,2,2,2,3,0 to 200,critical,<100,man/self-em/HQ/off,1 to less than 4,Car/Other,own,car_used,male_single,coapplicant,none,1,1,1
+18,39,6458,2,2,2,4,none,fully repaid here,<100,man/self-em/HQ/off,more than 7,UNK/None,own,car_new,male_single,none,bank,1,1,1
+12,32,6078,1,1,2,2,0 to 200,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,car_new,male_single,none,none,2,1,2
+24,30,7721,1,1,1,2,< 0,repaid,unk_nil,skilled / official,less than 1,BSSA/Life,own,fur_equ,female,none,none,1,2,2
+14,35,1410,1,1,1,2,0 to 200,repaid,501 to 1000,skilled / official,more than 7,real estate,own,business,male_mw,none,none,1,1,2
+6,31,1449,2,2,1,2,0 to 200,delayed,101 to 500,skilled / official,more than 7,Car/Other,own,business,male_ds,none,bank,2,1,2
+15,23,392,1,1,4,4,> 201,repaid,<100,skilled / official,less than 1,BSSA/Life,rent,edu,female,none,none,1,1,2
+18,28,6260,1,1,3,3,0 to 200,repaid,<100,unskilled (resident),4 to less than 7,real estate,rent,car_new,male_single,none,none,2,1,2
+36,25,7855,2,1,4,2,none,critical,<100,skilled / official,1 to less than 4,real estate,own,car_new,female,none,stores,1,1,1
+12,35,1680,1,1,3,1,< 0,repaid,501 to 1000,skilled / official,more than 7,real estate,own,rad_tel,male_mw,none,none,2,1,2
+48,47,3578,1,1,4,1,none,critical,unk_nil,skilled / official,more than 7,real estate,own,rad_tel,male_single,none,none,1,1,2
+42,30,7174,1,1,4,3,< 0,repaid,unk_nil,man/self-em/HQ/off,4 to less than 7,Car/Other,own,rad_tel,female,none,none,1,1,1
+10,27,2132,2,1,2,3,< 0,critical,unk_nil,skilled / official,less than 1,real estate,rent,fur_equ,female,coapplicant,none,2,2,2
+33,23,4281,2,1,1,4,< 0,critical,501 to 1000,skilled / official,1 to less than 4,Car/Other,own,fur_equ,female,none,none,2,1,1
+12,36,2366,1,1,3,3,0 to 200,critical,501 to 1000,man/self-em/HQ/off,4 to less than 7,Car/Other,own,car_new,male_ds,none,none,1,1,2
+21,25,1835,2,1,3,2,< 0,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,female,none,none,1,1,1
+24,41,3868,2,1,4,2,none,critical,<100,man/self-em/HQ/off,more than 7,Car/Other,rent,car_used,female,none,none,1,1,2
+12,24,1768,1,1,3,2,none,repaid,<100,unskilled (resident),1 to less than 4,real estate,rent,fur_equ,male_single,none,none,2,1,2
+10,63,781,2,1,4,4,> 201,critical,<100,skilled / official,more than 7,UNK/None,free,car_new,male_single,none,none,1,1,2
+18,27,1924,1,1,4,3,0 to 200,repaid,unk_nil,skilled / official,less than 1,real estate,rent,fur_equ,female,none,none,2,1,1
+12,30,2121,2,1,4,2,< 0,critical,<100,skilled / official,1 to less than 4,BSSA/Life,own,car_new,male_single,none,none,2,1,2
+12,40,701,1,1,4,2,< 0,repaid,<100,unskilled (resident),1 to less than 4,real estate,own,rad_tel,male_mw,none,none,2,1,2
+12,30,639,1,1,4,2,0 to 200,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,repairs,male_single,none,none,2,1,1
+12,34,1860,2,1,4,2,0 to 200,critical,<100,man/self-em/HQ/off,unemployed,Car/Other,own,car_used,male_single,none,none,1,1,2
+12,29,3499,2,1,3,2,< 0,critical,<100,skilled / official,1 to less than 4,real estate,own,car_new,female,coapplicant,none,2,1,1
+48,24,8487,1,1,1,2,0 to 200,repaid,unk_nil,skilled / official,4 to less than 7,Car/Other,own,car_new,female,none,none,2,1,2
+36,29,6887,1,1,4,3,< 0,delayed,<100,skilled / official,1 to less than 4,BSSA/Life,own,edu,male_single,none,stores,1,1,1
+15,27,2708,2,1,2,3,none,repaid,<100,unskilled (resident),less than 1,BSSA/Life,own,fur_equ,male_single,none,bank,2,1,2
+18,47,1984,2,1,4,4,none,repaid,<100,skilled / official,1 to less than 4,UNK/None,free,fur_equ,male_single,none,bank,2,1,2
+60,21,10144,1,1,2,4,none,repaid,101 to 500,skilled / official,4 to less than 7,real estate,own,rad_tel,female,none,none,1,1,2
+12,38,1240,2,1,4,2,none,critical,unk_nil,skilled / official,more than 7,real estate,own,rad_tel,female,none,none,1,1,2
+27,27,8613,2,1,2,2,none,delayed,>1000,skilled / official,1 to less than 4,Car/Other,own,car_used,male_single,none,none,2,1,2
+12,66,766,1,1,4,3,0 to 200,repaid,501 to 1000,unskilled (resident),1 to less than 4,real estate,own,rad_tel,male_single,none,none,2,1,1
+15,35,2728,3,1,4,2,0 to 200,critical,unk_nil,skilled / official,4 to less than 7,real estate,own,rad_tel,male_single,guarantor,bank,1,1,2
+12,44,1881,1,1,2,2,> 201,repaid,<100,unskilled (resident),1 to less than 4,Car/Other,rent,rad_tel,female,none,none,1,1,2
+6,27,709,1,1,2,2,> 201,repaid,>1000,unemp / unskill (non-res),less than 1,real estate,own,car_new,male_mw,none,none,2,2,2
+36,30,4795,1,1,4,1,0 to 200,repaid,<100,man/self-em/HQ/off,less than 1,UNK/None,own,rad_tel,female,none,none,1,1,2
+27,27,3416,1,1,3,2,< 0,repaid,<100,man/self-em/HQ/off,1 to less than 4,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+18,22,2462,1,1,2,2,< 0,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,fur_equ,male_single,none,none,2,1,1
+21,23,2288,1,1,4,4,none,critical,<100,skilled / official,less than 1,BSSA/Life,own,fur_equ,female,none,none,1,1,2
+48,30,3566,1,1,4,2,0 to 200,fully repaid here,101 to 500,skilled / official,4 to less than 7,Car/Other,own,business,male_single,none,none,2,1,2
+6,39,860,2,1,1,4,< 0,critical,<100,skilled / official,more than 7,UNK/None,own,car_new,female,none,none,1,1,2
+12,51,682,2,1,4,3,none,critical,101 to 500,skilled / official,4 to less than 7,Car/Other,own,car_new,female,none,none,1,1,2
+36,28,5371,2,1,3,2,< 0,critical,<100,skilled / official,1 to less than 4,BSSA/Life,own,fur_equ,male_single,guarantor,none,2,1,2
+18,46,1582,2,1,4,4,none,critical,>1000,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+6,42,1346,1,2,2,4,none,repaid,101 to 500,skilled / official,more than 7,UNK/None,free,rad_tel,male_single,none,bank,1,1,2
+10,38,1924,1,1,1,4,none,repaid,<100,skilled / official,1 to less than 4,BSSA/Life,own,rad_tel,male_single,none,none,1,2,2
+36,24,5848,1,1,4,1,> 201,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+24,29,7758,1,1,2,4,0 to 200,critical,>1000,skilled / official,more than 7,UNK/None,rent,car_used,female,none,none,2,1,2
+24,36,6967,1,1,4,4,0 to 200,delayed,101 to 500,man/self-em/HQ/off,4 to less than 7,Car/Other,rent,business,male_single,none,none,1,1,2
+12,20,1282,1,1,2,4,< 0,repaid,<100,skilled / official,1 to less than 4,Car/Other,rent,fur_equ,female,none,none,2,1,1
+9,48,1288,2,2,3,4,< 0,critical,101 to 500,skilled / official,more than 7,real estate,own,repairs,male_single,guarantor,none,2,2,2
+12,45,339,1,1,4,1,< 0,fully repaid here,<100,unskilled (resident),more than 7,Car/Other,own,retain,male_mw,none,bank,2,1,2
+24,38,3512,2,1,2,3,0 to 200,repaid,101 to 500,skilled / official,4 to less than 7,Car/Other,own,car_new,male_single,none,bank,1,1,2
+6,34,1898,2,2,1,2,none,critical,unk_nil,unskilled (resident),1 to less than 4,real estate,own,rad_tel,male_single,none,none,2,1,2
+24,36,2872,1,2,3,4,none,critical,101 to 500,skilled / official,more than 7,real estate,own,rad_tel,male_single,none,none,1,1,2
+18,30,1055,2,1,4,1,none,critical,<100,skilled / official,less than 1,BSSA/Life,own,car_new,female,none,none,2,1,2
+15,36,1262,2,1,4,3,none,repaid,501 to 1000,skilled / official,4 to less than 7,BSSA/Life,own,dom_app,male_single,none,none,1,1,2
+10,70,7308,1,1,2,4,0 to 200,repaid,<100,man/self-em/HQ/off,unemployed,UNK/None,free,car_new,male_single,none,bank,1,1,2
+36,36,909,1,1,4,4,none,repaid,501 to 1000,skilled / official,more than 7,BSSA/Life,own,car_new,male_single,none,none,2,1,2
+6,32,2978,1,1,1,2,none,repaid,501 to 1000,skilled / official,1 to less than 4,Car/Other,own,fur_equ,male_single,none,none,1,1,2
+18,33,1131,1,1,4,2,< 0,repaid,<100,skilled / official,unemployed,Car/Other,own,fur_equ,female,none,none,2,1,1
+11,20,1577,1,1,4,1,0 to 200,repaid,>1000,skilled / official,less than 1,real estate,own,fur_equ,female,none,none,2,1,2
+24,25,3972,1,1,2,4,none,repaid,<100,skilled / official,4 to less than 7,BSSA/Life,rent,fur_equ,female,none,none,1,1,2
+24,31,1935,2,1,4,4,0 to 200,critical,<100,skilled / official,more than 7,real estate,own,business,male_ds,none,none,1,1,1
+15,33,950,2,2,4,3,< 0,fully repaid,<100,skilled / official,more than 7,Car/Other,rent,car_new,male_single,none,none,2,1,1
+12,26,763,1,1,4,1,none,repaid,<100,skilled / official,1 to less than 4,real estate,own,fur_equ,female,none,none,1,1,2
+24,34,2064,1,1,3,2,0 to 200,delayed,<100,man/self-em/HQ/off,unemployed,BSSA/Life,own,fur_equ,female,none,none,1,1,1
+8,33,1414,1,1,4,2,0 to 200,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,male_single,guarantor,none,2,2,2
+21,26,3414,2,1,2,1,< 0,delayed,<100,skilled / official,less than 1,BSSA/Life,own,edu,male_single,none,none,2,1,1
+30,53,7485,1,1,4,1,none,fully repaid here,unk_nil,man/self-em/HQ/off,unemployed,real estate,own,car_used,female,none,bank,1,1,1
+12,42,2577,1,1,2,1,< 0,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,fur_equ,male_ds,none,none,2,1,2
+6,52,338,2,1,4,4,< 0,critical,501 to 1000,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+12,31,1963,2,2,4,2,none,repaid,<100,man/self-em/HQ/off,4 to less than 7,Car/Other,rent,rad_tel,male_single,none,none,1,1,2
+21,65,571,2,1,4,4,< 0,critical,<100,skilled / official,more than 7,real estate,own,car_new,male_single,none,none,2,1,2
+36,28,9572,2,1,1,1,none,delayed,<100,skilled / official,less than 1,Car/Other,own,business,male_ds,none,none,2,1,1
+36,30,4455,2,1,2,2,0 to 200,delayed,<100,man/self-em/HQ/off,1 to less than 4,real estate,own,business,male_ds,none,stores,1,1,1
+21,40,1647,2,2,4,2,< 0,fully repaid here,unk_nil,unskilled (resident),1 to less than 4,BSSA/Life,own,car_new,male_single,none,none,2,1,1
+24,50,3777,1,1,4,4,none,critical,>1000,skilled / official,1 to less than 4,real estate,own,fur_equ,male_single,none,none,1,1,2
+18,36,884,1,2,4,4,0 to 200,critical,<100,skilled / official,more than 7,Car/Other,own,car_new,male_single,none,bank,1,1,1
+15,31,1360,2,1,4,2,none,critical,<100,skilled / official,1 to less than 4,BSSA/Life,own,rad_tel,male_single,none,none,2,1,2
+9,74,5129,1,2,2,4,0 to 200,fully repaid here,<100,man/self-em/HQ/off,more than 7,UNK/None,free,car_used,female,none,bank,1,1,1
+16,68,1175,3,1,2,3,0 to 200,critical,<100,unemp / unskill (non-res),unemployed,Car/Other,free,car_new,male_single,none,none,1,1,2
+12,20,674,1,1,4,1,< 0,repaid,101 to 500,skilled / official,4 to less than 7,BSSA/Life,own,rad_tel,male_mw,none,none,2,1,1
+18,33,3244,2,1,1,4,0 to 200,fully repaid,<100,skilled / official,1 to less than 4,Car/Other,own,fur_equ,female,none,bank,1,1,2
+24,54,4591,3,1,2,3,none,repaid,>1000,man/self-em/HQ/off,1 to less than 4,BSSA/Life,own,business,male_single,none,none,1,1,1
+48,34,3844,1,2,4,4,0 to 200,fully repaid,101 to 500,unskilled (resident),4 to less than 7,UNK/None,free,business,male_single,none,none,2,1,1
+27,36,3915,1,2,4,2,0 to 200,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,business,male_single,none,none,1,1,1
+6,29,2108,1,1,2,2,none,repaid,<100,skilled / official,4 to less than 7,real estate,rent,rad_tel,male_mw,none,none,2,1,2
+45,21,3031,1,1,4,4,0 to 200,repaid,101 to 500,skilled / official,1 to less than 4,BSSA/Life,rent,rad_tel,male_single,guarantor,none,2,1,1
+9,34,1501,2,1,2,3,0 to 200,critical,<100,man/self-em/HQ/off,more than 7,Car/Other,own,edu,female,none,none,1,1,1
+6,28,1382,2,1,1,1,none,critical,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,none,1,1,2
+12,27,951,4,1,4,4,0 to 200,repaid,101 to 500,skilled / official,less than 1,Car/Other,rent,fur_equ,female,none,bank,2,1,1
+24,36,2760,1,1,4,4,0 to 200,repaid,unk_nil,skilled / official,more than 7,UNK/None,free,car_used,male_single,none,bank,1,1,2
+18,40,4297,1,1,4,3,0 to 200,delayed,<100,man/self-em/HQ/off,more than 7,UNK/None,own,fur_equ,male_ds,none,none,1,1,1
+9,52,936,2,1,4,2,none,critical,501 to 1000,skilled / official,more than 7,Car/Other,own,edu,male_single,none,none,1,1,2
+12,27,1168,1,1,4,3,< 0,repaid,<100,unskilled (resident),1 to less than 4,real estate,own,car_new,male_mw,none,none,2,1,2
+27,26,5117,2,1,3,4,none,delayed,<100,skilled / official,4 to less than 7,Car/Other,own,business,male_single,none,none,2,1,2
+12,21,902,1,1,4,4,< 0,repaid,<100,skilled / official,4 to less than 7,BSSA/Life,rent,retain,male_mw,none,none,2,1,1
+12,38,1495,2,2,4,1,none,critical,<100,unskilled (resident),more than 7,real estate,own,car_new,male_single,none,none,2,1,2
+30,38,10623,3,2,3,4,< 0,critical,<100,man/self-em/HQ/off,more than 7,UNK/None,free,car_used,male_single,none,none,1,1,2
+12,43,1935,3,1,4,4,none,critical,<100,skilled / official,more than 7,real estate,own,fur_equ,male_single,none,none,1,1,2
+12,26,1424,1,1,4,3,0 to 200,critical,<100,skilled / official,4 to less than 7,BSSA/Life,own,dom_app,male_single,none,none,2,1,2
+24,21,6568,1,1,2,2,< 0,repaid,<100,unskilled (resident),1 to less than 4,Car/Other,own,business,male_mw,none,stores,2,1,2
+12,55,1413,1,1,3,2,none,repaid,>1000,skilled / official,4 to less than 7,BSSA/Life,own,car_used,male_single,none,none,2,2,2
+9,33,3074,2,2,1,2,none,critical,unk_nil,skilled / official,1 to less than 4,real estate,own,rad_tel,male_single,none,none,2,1,2
+36,45,3835,1,1,2,4,none,repaid,unk_nil,unskilled (resident),more than 7,real estate,own,rad_tel,female,none,none,1,1,2
+27,50,5293,2,1,2,4,< 0,fully repaid,<100,skilled / official,unemployed,BSSA/Life,own,business,male_single,none,stores,1,1,1
+30,66,1908,1,1,4,4,> 201,delayed,<100,man/self-em/HQ/off,more than 7,real estate,own,business,male_single,none,none,1,1,1
+36,51,3342,1,1,4,2,none,critical,unk_nil,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+6,39,932,2,1,1,3,0 to 200,critical,unk_nil,unskilled (resident),4 to less than 7,BSSA/Life,own,retain,female,none,none,2,1,2
+18,31,3104,1,1,3,1,< 0,fully repaid,<100,skilled / official,4 to less than 7,BSSA/Life,own,business,male_single,none,bank,1,1,2
+36,23,3913,1,1,2,2,> 201,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,male_single,none,none,1,1,2
+24,24,3021,1,1,2,2,< 0,repaid,<100,unskilled (resident),1 to less than 4,real estate,rent,fur_equ,male_ds,none,none,2,1,2
+10,64,1364,1,1,2,4,none,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,car_new,female,none,none,1,1,2
+12,26,625,1,1,4,1,0 to 200,repaid,<100,unskilled (resident),less than 1,real estate,own,rad_tel,male_mw,guarantor,bank,2,1,2
+12,23,1200,1,1,4,4,< 0,repaid,unk_nil,skilled / official,1 to less than 4,BSSA/Life,rent,edu,female,none,bank,1,1,2
+12,30,707,2,1,4,2,none,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,male_single,none,bank,2,1,2
+24,32,2978,2,2,4,4,none,delayed,unk_nil,skilled / official,1 to less than 4,real estate,own,business,male_single,none,none,1,1,2
+15,30,4657,1,1,3,2,none,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,car_used,male_single,none,none,1,1,2
+36,27,2613,2,1,4,2,none,fully repaid,<100,skilled / official,1 to less than 4,Car/Other,own,repairs,male_single,none,none,2,1,2
+48,27,10961,2,1,1,2,0 to 200,repaid,>1000,skilled / official,4 to less than 7,UNK/None,own,rad_tel,male_single,coapplicant,bank,1,1,1
+12,53,7865,1,1,4,4,< 0,repaid,<100,man/self-em/HQ/off,more than 7,UNK/None,free,fur_equ,male_single,none,none,1,1,1
+9,22,1478,1,1,4,2,none,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,1
+24,22,3149,1,1,4,1,< 0,repaid,<100,skilled / official,less than 1,UNK/None,free,fur_equ,male_single,none,bank,2,1,2
+36,26,4210,1,1,4,2,> 201,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,male_single,none,none,2,1,1
+9,51,2507,1,1,2,4,none,repaid,501 to 1000,unskilled (resident),more than 7,UNK/None,free,car_new,male_single,none,none,2,1,2
+12,35,2141,1,1,3,1,none,repaid,101 to 500,skilled / official,4 to less than 7,UNK/None,own,rad_tel,male_single,none,none,2,1,2
+18,25,866,1,1,4,2,0 to 200,repaid,<100,unskilled (resident),1 to less than 4,real estate,own,rad_tel,male_mw,guarantor,none,2,1,2
+4,42,1544,3,2,2,1,none,critical,<100,unskilled (resident),4 to less than 7,real estate,own,rad_tel,male_single,none,none,2,1,2
+24,30,1823,1,2,4,2,< 0,repaid,<100,man/self-em/HQ/off,unemployed,Car/Other,own,rad_tel,male_single,none,stores,2,1,1
+6,23,14555,1,1,1,2,0 to 200,repaid,unk_nil,unemp / unskill (non-res),unemployed,BSSA/Life,own,car_new,male_single,none,none,1,1,1
+21,61,2767,2,1,4,2,0 to 200,repaid,101 to 500,unskilled (resident),more than 7,Car/Other,rent,business,male_ds,none,bank,2,1,1
+12,35,1291,2,1,4,2,none,critical,<100,skilled / official,1 to less than 4,BSSA/Life,own,rad_tel,female,none,none,2,1,2
+30,39,2522,1,2,1,3,< 0,repaid,<100,skilled / official,more than 7,BSSA/Life,own,rad_tel,male_single,guarantor,none,2,1,2
+24,29,915,1,1,4,2,< 0,repaid,unk_nil,skilled / official,more than 7,Car/Other,own,car_new,female,none,bank,2,1,1
+6,51,1595,1,2,3,2,none,repaid,<100,skilled / official,4 to less than 7,BSSA/Life,own,rad_tel,male_single,none,none,2,1,2
+48,24,4605,2,2,3,4,< 0,fully repaid,<100,skilled / official,more than 7,UNK/None,free,car_used,male_single,none,none,2,1,1
+12,27,1185,2,1,3,2,none,critical,<100,skilled / official,1 to less than 4,real estate,own,business,female,none,none,2,1,2
+12,35,3447,1,2,4,3,none,fully repaid here,501 to 1000,unskilled (resident),1 to less than 4,real estate,own,retain,female,none,none,2,1,2
+24,25,1258,1,1,4,1,none,repaid,<100,skilled / official,4 to less than 7,real estate,own,business,male_single,none,none,1,1,2
+12,52,717,3,1,4,4,none,critical,<100,skilled / official,more than 7,real estate,own,rad_tel,male_single,none,none,2,1,2
+6,35,1204,1,1,4,1,none,fully repaid,101 to 500,skilled / official,1 to less than 4,UNK/None,rent,car_new,male_single,none,bank,2,2,2
+24,26,1925,1,1,2,2,> 201,repaid,<100,skilled / official,1 to less than 4,real estate,own,fur_equ,male_single,none,none,2,1,2
+18,22,433,1,1,3,4,none,repaid,<100,skilled / official,unemployed,real estate,rent,rad_tel,female,coapplicant,none,2,1,1
+6,39,666,2,1,3,4,< 0,critical,>1000,unskilled (resident),4 to less than 7,real estate,own,car_new,female,none,none,1,1,2
+12,46,2251,1,1,1,2,> 201,repaid,<100,unskilled (resident),1 to less than 4,Car/Other,own,fur_equ,female,none,none,2,1,2
+30,24,2150,1,1,4,2,0 to 200,repaid,<100,skilled / official,1 to less than 4,UNK/None,own,car_new,female,guarantor,bank,2,1,1
+24,35,4151,2,1,2,3,none,delayed,101 to 500,skilled / official,1 to less than 4,BSSA/Life,own,fur_equ,male_single,none,none,2,1,2
+9,24,2030,1,1,2,1,0 to 200,repaid,unk_nil,skilled / official,4 to less than 7,Car/Other,own,fur_equ,male_single,none,none,1,1,2
+60,27,7418,1,1,1,1,0 to 200,delayed,unk_nil,unskilled (resident),1 to less than 4,real estate,own,rad_tel,male_single,none,none,2,1,2
+24,35,2684,2,1,4,2,none,critical,<100,unskilled (resident),1 to less than 4,real estate,own,rad_tel,male_single,none,none,2,1,2
+12,29,2149,1,1,4,1,< 0,fully repaid here,<100,skilled / official,1 to less than 4,UNK/None,free,rad_tel,male_ds,none,none,2,1,1
+15,23,3812,1,1,1,4,none,repaid,101 to 500,skilled / official,less than 1,Car/Other,own,car_used,female,none,none,1,1,2
+11,57,1154,3,1,4,4,none,critical,101 to 500,unskilled (resident),unemployed,real estate,own,rad_tel,female,none,none,2,1,2
+12,27,1657,1,1,2,2,< 0,repaid,<100,skilled / official,1 to less than 4,real estate,own,fur_equ,male_single,none,none,2,1,2
+24,55,1603,1,1,4,4,< 0,repaid,<100,skilled / official,more than 7,Car/Other,own,rad_tel,female,none,none,2,1,2
+18,36,5302,3,1,2,4,< 0,critical,<100,man/self-em/HQ/off,more than 7,UNK/None,free,car_new,male_single,none,none,1,1,2
+12,57,2748,3,1,2,4,none,critical,<100,unskilled (resident),more than 7,UNK/None,free,edu,female,none,bank,2,1,2
+10,32,1231,2,2,3,4,none,critical,<100,unskilled (resident),more than 7,real estate,own,car_new,male_single,none,none,2,2,2
+15,37,802,1,2,4,3,0 to 200,repaid,<100,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,1
+36,36,6304,2,1,4,4,none,critical,unk_nil,skilled / official,more than 7,real estate,own,business,male_single,none,none,2,1,2
+24,38,1533,1,1,4,3,none,repaid,<100,skilled / official,less than 1,Car/Other,own,rad_tel,female,none,stores,1,1,2
+14,45,8978,1,1,1,4,< 0,repaid,<100,man/self-em/HQ/off,more than 7,BSSA/Life,own,car_new,male_ds,none,none,1,2,1
+24,25,999,2,1,4,2,none,repaid,unk_nil,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+18,32,2662,1,1,4,3,none,repaid,unk_nil,skilled / official,4 to less than 7,BSSA/Life,own,car_new,male_single,none,none,2,2,2
+12,37,1402,1,1,3,4,none,critical,501 to 1000,skilled / official,4 to less than 7,Car/Other,rent,fur_equ,female,none,none,1,1,2
+48,36,12169,1,1,4,4,0 to 200,fully repaid here,unk_nil,man/self-em/HQ/off,unemployed,UNK/None,free,car_new,male_single,coapplicant,none,1,1,2
+48,28,3060,2,1,4,4,0 to 200,repaid,<100,skilled / official,4 to less than 7,real estate,own,rad_tel,male_single,none,none,2,1,1
+30,34,11998,1,1,1,1,< 0,repaid,<100,unskilled (resident),less than 1,UNK/None,own,repairs,male_ds,none,none,1,1,1
+9,32,2697,1,2,1,2,none,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,male_single,none,none,2,1,2
+18,26,2404,2,1,2,2,none,critical,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,none,2,1,2
+12,49,1262,1,1,2,4,< 0,repaid,unk_nil,unskilled (resident),more than 7,BSSA/Life,own,fur_equ,male_ds,none,none,1,1,2
+6,32,4611,1,1,1,4,none,repaid,<100,skilled / official,less than 1,BSSA/Life,own,fur_equ,female,none,none,2,1,1
+24,29,1901,1,1,4,4,none,repaid,101 to 500,man/self-em/HQ/off,1 to less than 4,Car/Other,rent,rad_tel,male_single,none,none,1,1,2
+15,23,3368,2,1,3,4,none,critical,>1000,skilled / official,more than 7,UNK/None,rent,car_used,male_single,none,none,1,1,2
+12,50,1574,1,1,4,2,none,repaid,<100,skilled / official,1 to less than 4,real estate,own,fur_equ,male_single,none,none,2,1,2
+18,49,1445,1,1,4,4,> 201,fully repaid here,unk_nil,unskilled (resident),4 to less than 7,Car/Other,own,rad_tel,male_single,none,bank,2,1,2
+15,63,1520,1,1,4,4,none,critical,unk_nil,skilled / official,more than 7,BSSA/Life,own,fur_equ,male_single,none,none,2,1,2
+24,37,3878,1,1,4,2,0 to 200,critical,101 to 500,skilled / official,less than 1,Car/Other,own,car_new,male_ds,none,none,1,1,2
+47,35,10722,1,1,1,1,< 0,repaid,<100,unskilled (resident),less than 1,real estate,own,car_new,female,none,none,1,1,2
+48,26,4788,1,2,4,3,< 0,repaid,<100,skilled / official,4 to less than 7,BSSA/Life,own,car_used,male_single,none,none,2,1,2
+48,31,7582,1,1,2,4,0 to 200,delayed,101 to 500,man/self-em/HQ/off,unemployed,UNK/None,free,car_used,male_single,none,none,1,1,2
+12,49,1092,2,1,4,4,0 to 200,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,female,guarantor,none,1,1,2
+24,48,1024,1,1,4,4,< 0,delayed,<100,skilled / official,less than 1,real estate,own,rad_tel,male_mw,none,stores,2,1,1
+12,26,1076,1,1,2,2,none,repaid,<100,skilled / official,1 to less than 4,real estate,own,business,male_mw,none,none,1,2,2
+36,28,9398,1,1,1,4,0 to 200,repaid,<100,man/self-em/HQ/off,less than 1,Car/Other,rent,car_used,male_mw,none,none,1,1,1
+24,44,6419,2,2,2,4,< 0,critical,<100,man/self-em/HQ/off,more than 7,UNK/None,free,car_used,female,none,none,1,1,2
+42,56,4796,1,1,4,4,> 201,critical,<100,skilled / official,more than 7,UNK/None,free,car_used,male_single,none,none,2,1,2
+48,46,7629,2,2,4,2,none,critical,unk_nil,man/self-em/HQ/off,more than 7,Car/Other,own,business,male_ds,none,bank,2,1,2
+48,26,9960,1,1,1,2,0 to 200,repaid,<100,skilled / official,less than 1,Car/Other,own,fur_equ,female,none,none,1,1,1
+12,20,4675,1,1,1,4,none,repaid,unk_nil,skilled / official,less than 1,Car/Other,rent,car_used,female,none,none,2,1,2
+10,45,1287,1,1,4,2,none,repaid,unk_nil,unskilled (resident),more than 7,BSSA/Life,own,car_new,male_single,coapplicant,none,2,2,2
+18,43,2515,1,1,3,4,none,repaid,<100,skilled / official,1 to less than 4,real estate,own,fur_equ,male_single,none,none,1,1,2
+21,32,2745,2,1,3,2,0 to 200,critical,>1000,skilled / official,4 to less than 7,Car/Other,own,fur_equ,male_single,none,none,1,1,2
+6,54,672,1,1,1,4,none,repaid,<100,unemp / unskill (non-res),unemployed,real estate,own,car_new,female,none,none,1,1,2
+36,42,3804,1,1,4,1,0 to 200,fully repaid,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,none,1,1,1
+24,37,1344,2,2,4,2,> 201,critical,unk_nil,unskilled (resident),4 to less than 7,real estate,own,car_new,male_single,none,bank,2,1,1
+10,49,1038,2,1,4,3,< 0,critical,<100,skilled / official,4 to less than 7,BSSA/Life,own,car_new,male_single,coapplicant,none,1,1,2
+48,44,10127,1,1,2,2,none,critical,501 to 1000,skilled / official,1 to less than 4,UNK/None,free,car_new,male_single,none,bank,2,1,1
+6,33,1543,1,1,4,2,none,repaid,>1000,skilled / official,1 to less than 4,real estate,own,fur_equ,male_ds,none,none,2,1,2
+30,24,4811,1,1,2,4,none,repaid,unk_nil,unskilled (resident),4 to less than 7,BSSA/Life,rent,car_used,female,none,stores,2,1,2
+12,33,727,1,1,4,3,< 0,repaid,101 to 500,unskilled (resident),less than 1,UNK/None,own,rad_tel,male_mw,none,none,1,1,1
+8,24,1237,1,1,3,4,0 to 200,repaid,<100,skilled / official,1 to less than 4,real estate,own,fur_equ,female,none,none,2,1,1
+9,22,276,1,1,4,4,0 to 200,repaid,<100,unskilled (resident),1 to less than 4,real estate,rent,car_new,male_mw,none,none,2,1,2
+48,40,5381,1,1,3,4,0 to 200,repaid,unk_nil,unemp / unskill (non-res),unemployed,UNK/None,free,car_used,male_single,none,bank,1,1,2
+24,25,5511,1,1,4,1,none,repaid,101 to 500,skilled / official,1 to less than 4,Car/Other,own,fur_equ,male_single,none,stores,2,1,2
+24,26,3749,1,1,2,4,> 201,repaid,<100,skilled / official,less than 1,Car/Other,own,fur_equ,female,none,none,2,1,2
+12,25,685,1,1,2,3,0 to 200,repaid,<100,unskilled (resident),4 to less than 7,Car/Other,own,car_new,male_mw,none,bank,2,1,1
+4,29,1494,1,2,1,2,> 201,repaid,unk_nil,unskilled (resident),less than 1,real estate,own,car_new,male_single,none,none,2,2,2
+36,31,2746,1,1,4,4,< 0,fully repaid here,<100,skilled / official,more than 7,Car/Other,own,fur_equ,male_single,none,bank,2,1,1
+12,38,708,1,2,2,3,< 0,repaid,<100,unskilled (resident),1 to less than 4,BSSA/Life,own,fur_equ,male_single,guarantor,none,2,1,2
+24,48,4351,1,1,1,4,0 to 200,repaid,unk_nil,unskilled (resident),1 to less than 4,BSSA/Life,own,fur_equ,female,none,none,1,1,2
+12,32,701,2,1,4,2,none,critical,<100,skilled / official,1 to less than 4,Car/Other,own,edu,male_single,none,none,2,1,2
+15,27,3643,2,1,1,4,< 0,delayed,<100,unskilled (resident),more than 7,BSSA/Life,own,fur_equ,female,none,none,2,1,2
+30,28,4249,2,1,4,2,0 to 200,critical,<100,man/self-em/HQ/off,unemployed,Car/Other,own,car_new,male_mw,none,none,2,1,1
+24,32,1938,1,1,4,3,< 0,repaid,<100,skilled / official,less than 1,BSSA/Life,own,rad_tel,male_ds,none,none,2,1,1
+24,34,2910,1,1,2,1,< 0,repaid,<100,man/self-em/HQ/off,4 to less than 7,UNK/None,free,car_used,male_single,none,none,1,1,2
+18,28,2659,1,1,4,2,< 0,repaid,>1000,skilled / official,1 to less than 4,Car/Other,own,fur_equ,male_single,none,none,2,1,2
+18,36,1028,2,1,4,3,none,critical,<100,skilled / official,1 to less than 4,real estate,own,car_new,female,none,none,2,1,2
+8,39,3398,2,1,1,4,< 0,critical,<100,unskilled (resident),4 to less than 7,real estate,own,car_new,male_single,none,none,2,2,2
+12,49,5801,1,1,2,4,none,critical,unk_nil,skilled / official,more than 7,BSSA/Life,rent,fur_equ,male_single,none,none,1,1,2
+24,34,1525,1,2,4,3,none,repaid,>1000,skilled / official,4 to less than 7,Car/Other,own,car_new,female,none,none,1,1,2
+36,31,4473,1,1,4,2,> 201,repaid,<100,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+6,28,1068,1,2,4,4,0 to 200,repaid,<100,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+24,75,6615,2,1,2,4,< 0,critical,<100,man/self-em/HQ/off,unemployed,UNK/None,free,car_used,male_single,none,none,1,1,2
+18,30,1864,2,1,4,2,none,critical,101 to 500,skilled / official,1 to less than 4,real estate,own,edu,female,none,none,2,1,1
+60,24,7408,1,1,4,2,0 to 200,repaid,101 to 500,man/self-em/HQ/off,less than 1,BSSA/Life,own,car_new,female,none,none,2,1,1
+48,24,11590,2,1,2,4,none,critical,101 to 500,unskilled (resident),1 to less than 4,Car/Other,rent,car_used,female,none,bank,2,1,1
+24,23,4110,2,2,3,4,< 0,fully repaid,<100,skilled / official,more than 7,UNK/None,rent,fur_equ,male_single,none,bank,2,1,1
+6,44,3384,1,1,1,4,< 0,critical,<100,man/self-em/HQ/off,1 to less than 4,real estate,rent,fur_equ,male_ds,none,none,1,1,1
+13,23,2101,1,1,2,4,0 to 200,repaid,<100,unskilled (resident),less than 1,BSSA/Life,own,rad_tel,female,guarantor,none,2,1,2
+15,24,1275,1,1,4,2,< 0,repaid,unk_nil,skilled / official,1 to less than 4,Car/Other,rent,dom_app,female,none,none,2,1,1
+24,28,4169,1,1,4,4,< 0,repaid,<100,skilled / official,1 to less than 4,BSSA/Life,own,fur_equ,male_single,none,none,2,1,2
+10,31,1521,1,1,4,2,0 to 200,repaid,<100,unskilled (resident),1 to less than 4,Car/Other,own,fur_equ,male_ds,none,none,2,1,2
+24,24,5743,2,1,2,4,0 to 200,critical,<100,skilled / official,less than 1,UNK/None,free,edu,female,none,none,1,1,2
+21,26,3599,1,1,1,4,< 0,repaid,<100,unskilled (resident),4 to less than 7,Car/Other,rent,fur_equ,female,none,none,2,1,2
+18,25,3213,1,1,1,3,0 to 200,repaid,501 to 1000,skilled / official,less than 1,real estate,rent,rad_tel,male_mw,none,none,2,1,2
+18,33,4439,1,1,1,1,0 to 200,repaid,<100,man/self-em/HQ/off,more than 7,real estate,own,business,male_single,coapplicant,bank,1,1,2
+10,37,3949,1,2,1,1,> 201,repaid,<100,unskilled (resident),less than 1,BSSA/Life,own,car_new,male_single,guarantor,none,2,1,2
+15,43,1459,1,1,4,2,none,critical,<100,unskilled (resident),1 to less than 4,Car/Other,own,rad_tel,female,none,none,2,1,2
+13,23,882,2,1,4,4,0 to 200,critical,<100,skilled / official,less than 1,real estate,own,rad_tel,male_single,guarantor,none,2,1,2
+24,23,3758,1,1,1,4,0 to 200,repaid,501 to 1000,unemp / unskill (non-res),unemployed,UNK/None,rent,rad_tel,female,none,none,2,1,2
+6,34,1743,2,1,1,2,none,delayed,101 to 500,unskilled (resident),1 to less than 4,real estate,own,business,male_single,none,none,2,1,2
+9,32,1136,2,2,4,3,0 to 200,critical,>1000,skilled / official,more than 7,UNK/None,free,edu,male_single,none,none,2,1,1
+9,23,1236,1,1,1,4,none,repaid,<100,skilled / official,less than 1,real estate,rent,dom_app,female,none,none,1,1,2
+9,29,959,1,1,1,2,0 to 200,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,fur_equ,female,none,none,2,2,1
+18,38,3229,1,1,2,4,none,critical,unk_nil,man/self-em/HQ/off,unemployed,UNK/None,own,car_used,male_single,none,none,1,1,2
+12,28,6199,2,1,4,2,< 0,fully repaid,<100,skilled / official,1 to less than 4,BSSA/Life,rent,rad_tel,male_single,none,none,1,1,1
+10,46,727,1,1,4,4,none,repaid,501 to 1000,skilled / official,more than 7,UNK/None,free,edu,male_single,none,none,1,1,2
+24,23,1246,1,1,4,2,0 to 200,repaid,<100,unskilled (resident),less than 1,real estate,own,car_new,male_single,none,stores,2,1,1
+12,49,2331,1,1,1,4,none,critical,unk_nil,skilled / official,more than 7,real estate,own,rad_tel,male_single,coapplicant,none,1,1,2
+36,26,4463,2,1,4,2,none,delayed,<100,man/self-em/HQ/off,1 to less than 4,Car/Other,own,rad_tel,male_single,none,none,1,1,1
+12,28,776,1,1,4,2,none,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,male_mw,none,none,2,1,2
+30,23,2406,1,1,4,4,< 0,repaid,<100,skilled / official,4 to less than 7,real estate,rent,fur_equ,female,none,none,2,1,1
+18,61,1239,1,1,4,4,0 to 200,repaid,unk_nil,skilled / official,1 to less than 4,UNK/None,free,edu,male_single,none,none,2,1,2
+12,37,3399,1,1,2,3,> 201,repaid,unk_nil,man/self-em/HQ/off,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+12,36,2247,2,1,2,2,> 201,delayed,<100,skilled / official,1 to less than 4,Car/Other,own,car_new,female,none,stores,1,1,2
+6,21,1766,1,1,1,2,none,repaid,<100,skilled / official,1 to less than 4,BSSA/Life,rent,fur_equ,male_mw,none,none,2,1,2
+18,25,2473,1,1,4,1,< 0,repaid,<100,unemp / unskill (non-res),unemployed,Car/Other,own,fur_equ,male_single,none,none,2,1,1
+12,36,1542,1,1,2,4,none,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,business,male_single,none,none,1,1,2
+18,27,3850,2,1,3,1,none,critical,<100,skilled / official,4 to less than 7,Car/Other,own,car_used,male_single,none,none,2,1,2
+18,22,3650,1,1,1,4,< 0,repaid,<100,skilled / official,less than 1,Car/Other,rent,fur_equ,female,none,none,2,1,2
+36,42,3446,1,2,4,2,< 0,repaid,<100,skilled / official,more than 7,Car/Other,own,fur_equ,male_single,none,none,2,1,1
+18,40,3001,1,1,2,4,0 to 200,repaid,<100,skilled / official,4 to less than 7,real estate,rent,fur_equ,female,none,none,2,1,2
+36,36,3079,1,1,4,4,none,repaid,unk_nil,skilled / official,1 to less than 4,real estate,own,car_new,male_single,none,none,2,1,2
+18,33,6070,2,1,3,4,none,critical,<100,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+10,23,2146,2,1,1,3,none,critical,<100,skilled / official,less than 1,real estate,rent,fur_equ,female,none,none,2,1,2
+60,63,13756,1,1,2,4,none,critical,unk_nil,man/self-em/HQ/off,more than 7,UNK/None,free,car_new,male_single,none,bank,1,1,2
+60,60,14782,2,1,3,4,0 to 200,fully repaid here,101 to 500,man/self-em/HQ/off,more than 7,UNK/None,free,car_used,female,none,bank,1,1,1
+48,37,7685,1,1,2,4,< 0,fully repaid here,<100,skilled / official,4 to less than 7,Car/Other,rent,business,female,guarantor,none,2,1,1
+18,34,2320,2,1,2,3,none,delayed,<100,skilled / official,unemployed,real estate,own,rad_tel,male_mw,none,none,2,1,2
+7,36,846,1,1,3,4,none,delayed,unk_nil,skilled / official,more than 7,UNK/None,free,rad_tel,male_single,none,none,2,1,2
+36,57,14318,1,1,4,2,0 to 200,repaid,<100,man/self-em/HQ/off,more than 7,UNK/None,free,car_new,male_single,none,none,1,1,1
+6,52,362,2,1,4,4,none,critical,101 to 500,unskilled (resident),1 to less than 4,Car/Other,own,car_new,female,none,none,2,1,2
+20,39,2212,1,1,4,4,< 0,repaid,unk_nil,skilled / official,4 to less than 7,Car/Other,own,fur_equ,male_single,none,none,1,1,2
+18,38,12976,1,1,3,4,0 to 200,repaid,<100,man/self-em/HQ/off,unemployed,UNK/None,free,car_used,female,none,none,1,1,1
+22,25,1283,1,1,4,4,none,repaid,unk_nil,skilled / official,4 to less than 7,BSSA/Life,rent,car_new,female,none,none,2,1,2
+12,26,1330,1,1,4,1,> 201,repaid,<100,skilled / official,less than 1,real estate,own,car_new,male_single,none,none,2,1,2
+30,26,4272,2,1,2,2,none,delayed,101 to 500,unskilled (resident),1 to less than 4,BSSA/Life,own,business,male_single,none,none,2,1,2
+18,25,2238,2,1,2,1,none,critical,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,none,2,1,2
+18,21,1126,1,1,4,2,none,repaid,unk_nil,skilled / official,less than 1,real estate,rent,rad_tel,female,none,none,1,1,2
+18,40,7374,2,1,4,4,0 to 200,critical,<100,man/self-em/HQ/off,unemployed,BSSA/Life,own,fur_equ,male_single,none,stores,1,1,2
+15,27,2326,1,1,2,4,0 to 200,critical,501 to 1000,skilled / official,1 to less than 4,Car/Other,own,business,male_single,none,bank,2,1,2
+9,27,1449,2,1,3,2,none,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,business,female,none,none,2,1,2
+18,30,1820,1,1,2,2,none,repaid,<100,man/self-em/HQ/off,1 to less than 4,BSSA/Life,own,car_new,male_mw,none,none,1,1,2
+12,19,983,1,1,1,4,0 to 200,repaid,>1000,unskilled (resident),less than 1,real estate,rent,fur_equ,female,none,none,2,1,2
+36,39,3249,1,2,2,4,< 0,repaid,<100,man/self-em/HQ/off,4 to less than 7,UNK/None,free,car_new,male_single,none,bank,1,1,2
+6,31,1957,1,1,1,4,< 0,critical,<100,skilled / official,4 to less than 7,Car/Other,own,rad_tel,female,none,none,2,1,2
+9,31,2406,1,1,2,3,none,critical,<100,man/self-em/HQ/off,unemployed,Car/Other,own,fur_equ,male_single,none,none,2,1,2
+39,32,11760,1,1,2,3,0 to 200,delayed,101 to 500,skilled / official,4 to less than 7,UNK/None,rent,edu,male_single,none,none,1,1,2
+12,55,2578,1,1,3,4,< 0,repaid,<100,man/self-em/HQ/off,unemployed,UNK/None,free,fur_equ,female,none,none,2,1,2
+36,46,2348,2,1,3,2,< 0,critical,<100,skilled / official,1 to less than 4,BSSA/Life,own,fur_equ,male_mw,none,none,1,1,2
+12,46,1223,2,1,1,1,0 to 200,repaid,<100,skilled / official,more than 7,real estate,rent,car_new,male_ds,none,none,2,1,1
+24,43,1516,2,1,4,1,none,critical,>1000,unskilled (resident),1 to less than 4,real estate,own,rad_tel,female,none,none,2,1,2
+18,39,1473,1,1,3,4,none,repaid,<100,skilled / official,less than 1,real estate,own,rad_tel,male_mw,none,none,1,1,2
+18,28,1887,2,1,4,4,0 to 200,critical,unk_nil,skilled / official,1 to less than 4,real estate,own,business,male_mw,none,bank,2,1,2
+24,27,8648,2,1,2,2,none,delayed,<100,skilled / official,less than 1,Car/Other,own,business,male_single,none,bank,1,1,1
+14,27,802,2,1,4,2,none,delayed,<100,unskilled (resident),1 to less than 4,Car/Other,own,car_new,male_single,none,none,2,1,2
+18,43,2899,1,2,4,4,0 to 200,delayed,unk_nil,skilled / official,more than 7,Car/Other,own,car_new,male_single,none,none,2,1,2
+24,22,2039,1,1,1,1,0 to 200,repaid,<100,skilled / official,less than 1,BSSA/Life,own,rad_tel,male_mw,none,none,1,1,1
+24,43,2197,2,2,4,4,none,critical,unk_nil,skilled / official,4 to less than 7,Car/Other,own,car_used,male_single,none,none,1,1,2
+15,27,1053,1,1,4,2,< 0,repaid,<100,skilled / official,less than 1,real estate,own,rad_tel,male_mw,none,none,2,2,2
+24,26,3235,1,1,3,2,none,repaid,501 to 1000,man/self-em/HQ/off,more than 7,Car/Other,own,rad_tel,male_ds,none,none,1,1,2
+12,28,939,3,1,4,2,> 201,critical,501 to 1000,skilled / official,4 to less than 7,real estate,own,car_new,male_mw,none,none,1,1,1
+24,20,1967,1,1,4,4,0 to 200,repaid,<100,skilled / official,more than 7,Car/Other,own,rad_tel,female,none,none,1,1,2
+33,35,7253,2,1,3,2,none,critical,<100,man/self-em/HQ/off,4 to less than 7,Car/Other,own,car_used,male_single,none,none,1,1,2
+12,42,2292,2,1,4,2,none,critical,<100,man/self-em/HQ/off,unemployed,Car/Other,own,business,male_single,none,stores,1,1,1
+10,40,1597,1,2,3,2,none,repaid,501 to 1000,unskilled (resident),1 to less than 4,UNK/None,rent,car_new,male_single,none,none,2,2,2
+24,35,1381,1,1,4,2,< 0,repaid,unk_nil,skilled / official,1 to less than 4,BSSA/Life,own,car_new,female,none,none,2,1,1
+36,35,5842,2,2,2,2,none,critical,<100,skilled / official,more than 7,BSSA/Life,own,car_used,male_single,none,none,1,1,2
+12,33,2579,1,2,4,1,< 0,repaid,<100,unskilled (resident),less than 1,real estate,own,car_new,male_single,none,none,2,1,1
+18,23,8471,2,1,1,2,< 0,delayed,unk_nil,skilled / official,1 to less than 4,Car/Other,rent,edu,female,none,none,1,1,2
+21,31,2782,1,1,1,2,none,repaid,501 to 1000,man/self-em/HQ/off,4 to less than 7,Car/Other,own,car_new,female,none,bank,2,1,2
+18,33,1042,1,1,4,2,0 to 200,repaid,unk_nil,skilled / official,1 to less than 4,BSSA/Life,own,car_new,female,none,none,2,1,1
+15,20,3186,1,1,2,3,none,repaid,>1000,skilled / official,4 to less than 7,Car/Other,rent,car_new,female,none,none,2,1,2
+12,30,2028,1,1,4,2,0 to 200,repaid,unk_nil,skilled / official,1 to less than 4,Car/Other,own,car_used,male_single,none,none,2,1,2
+12,47,958,2,2,2,3,0 to 200,critical,<100,unskilled (resident),4 to less than 7,real estate,own,car_new,male_single,none,none,2,1,2
+21,34,1591,2,1,4,3,none,delayed,101 to 500,man/self-em/HQ/off,4 to less than 7,real estate,own,fur_equ,male_single,none,none,2,1,2
+12,25,2762,1,1,1,2,0 to 200,repaid,unk_nil,skilled / official,more than 7,BSSA/Life,own,fur_equ,female,none,bank,1,1,1
+18,21,2779,1,1,1,3,0 to 200,repaid,<100,skilled / official,1 to less than 4,Car/Other,rent,car_used,male_mw,none,none,1,1,2
+28,29,2743,2,1,4,2,none,critical,<100,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+18,46,1149,2,1,4,3,none,critical,>1000,skilled / official,1 to less than 4,real estate,own,rad_tel,male_single,none,none,2,1,2
+9,20,1313,1,1,1,4,none,repaid,<100,skilled / official,more than 7,Car/Other,own,fur_equ,male_single,none,none,2,1,2
+18,55,1190,3,2,2,4,< 0,critical,<100,unemp / unskill (non-res),unemployed,UNK/None,free,repairs,female,none,none,2,1,1
+5,74,3448,1,1,1,4,none,repaid,<100,unskilled (resident),4 to less than 7,real estate,own,business,male_single,none,none,2,1,2
+24,29,11328,2,1,2,3,0 to 200,repaid,<100,man/self-em/HQ/off,1 to less than 4,Car/Other,own,car_used,male_single,coapplicant,bank,1,1,1
+6,36,1872,3,1,4,4,< 0,critical,<100,man/self-em/HQ/off,unemployed,UNK/None,free,fur_equ,male_single,none,none,1,1,2
+24,33,2058,2,1,4,2,none,critical,<100,skilled / official,1 to less than 4,real estate,own,repairs,male_ds,none,none,1,1,2
+9,25,2136,1,1,3,2,< 0,repaid,<100,skilled / official,1 to less than 4,real estate,own,fur_equ,male_single,none,none,2,1,2
+12,25,1484,1,1,2,1,0 to 200,repaid,unk_nil,skilled / official,1 to less than 4,real estate,own,rad_tel,male_mw,none,none,1,1,1
+6,23,660,1,1,2,4,none,repaid,501 to 1000,unskilled (resident),4 to less than 7,real estate,rent,repairs,male_mw,none,none,2,1,2
+24,37,1287,2,1,4,4,none,critical,>1000,skilled / official,more than 7,real estate,own,car_new,female,none,none,1,1,2
+42,65,3394,2,1,4,4,< 0,critical,<100,unemp / unskill (non-res),unemployed,Car/Other,own,repairs,male_single,coapplicant,none,2,1,2
+12,26,609,1,1,4,1,> 201,fully repaid here,<100,unemp / unskill (non-res),less than 1,real estate,own,business,female,none,none,2,1,1
+12,39,1884,1,1,4,4,none,repaid,<100,man/self-em/HQ/off,more than 7,Car/Other,own,car_new,male_single,none,none,1,1,2
+12,30,1620,1,1,2,3,< 0,repaid,<100,skilled / official,1 to less than 4,BSSA/Life,own,fur_equ,female,coapplicant,none,2,1,2
+20,29,2629,2,1,2,3,0 to 200,delayed,<100,skilled / official,1 to less than 4,Car/Other,own,car_used,male_single,none,bank,1,1,2
+12,41,719,1,2,4,4,none,repaid,<100,unskilled (resident),more than 7,Car/Other,own,edu,male_single,none,bank,2,1,1
+48,30,5096,1,1,2,3,0 to 200,critical,<100,man/self-em/HQ/off,1 to less than 4,Car/Other,own,fur_equ,female,none,none,1,1,1
+9,41,1244,2,1,4,4,none,critical,unk_nil,unskilled (resident),more than 7,BSSA/Life,rent,edu,female,none,none,2,1,2
+36,34,1842,1,1,4,4,< 0,repaid,<100,skilled / official,less than 1,Car/Other,own,car_new,female,none,none,1,1,1
+7,35,2576,1,1,2,2,0 to 200,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,male_single,guarantor,none,2,1,2
+12,55,1424,1,1,3,4,> 201,repaid,unk_nil,man/self-em/HQ/off,more than 7,real estate,own,fur_equ,female,none,none,1,1,2
+15,61,1512,2,1,3,3,0 to 200,delayed,>1000,skilled / official,1 to less than 4,BSSA/Life,own,repairs,male_mw,none,stores,2,1,1
+36,30,11054,1,1,4,2,none,critical,unk_nil,man/self-em/HQ/off,1 to less than 4,Car/Other,own,car_used,male_single,none,none,1,1,2
+6,29,518,1,1,3,1,none,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,female,none,none,2,1,2
+12,34,2759,2,1,2,4,none,fully repaid,<100,skilled / official,more than 7,BSSA/Life,own,fur_equ,male_single,none,none,2,1,2
+24,35,2670,1,1,4,4,none,repaid,<100,man/self-em/HQ/off,more than 7,Car/Other,own,car_used,male_single,none,none,1,1,2
+24,31,4817,1,1,2,3,< 0,repaid,<100,skilled / official,4 to less than 7,BSSA/Life,own,car_new,male_single,coapplicant,none,1,1,1
+24,29,2679,1,1,4,1,none,repaid,<100,man/self-em/HQ/off,less than 1,UNK/None,own,car_used,female,none,none,1,1,2
+11,36,3905,2,2,2,2,< 0,critical,<100,skilled / official,1 to less than 4,real estate,rent,car_new,male_single,none,none,2,1,2
+12,35,3386,1,1,3,4,< 0,repaid,<100,skilled / official,more than 7,UNK/None,free,car_used,male_single,none,none,1,1,1
+6,27,343,1,1,4,1,< 0,repaid,<100,skilled / official,less than 1,real estate,own,dom_app,female,none,none,2,1,2
+18,32,4594,1,1,3,2,none,repaid,<100,skilled / official,less than 1,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+36,37,3620,1,2,1,2,< 0,repaid,<100,skilled / official,1 to less than 4,BSSA/Life,own,fur_equ,male_single,guarantor,none,2,1,2
+15,36,1721,1,1,2,3,< 0,repaid,<100,skilled / official,less than 1,real estate,own,car_new,male_single,none,none,2,1,2
+12,34,3017,1,1,3,1,0 to 200,repaid,<100,man/self-em/HQ/off,less than 1,real estate,rent,fur_equ,female,none,none,2,1,2
+12,38,754,2,1,4,4,0 to 200,repaid,unk_nil,skilled / official,more than 7,BSSA/Life,own,retain,male_single,none,none,2,1,2
+18,34,1950,2,1,4,1,none,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,business,male_single,none,stores,1,1,2
+24,63,2924,1,2,3,4,< 0,repaid,<100,skilled / official,1 to less than 4,UNK/None,own,car_used,male_single,guarantor,bank,1,1,2
+24,29,1659,1,1,4,2,< 0,delayed,<100,unskilled (resident),less than 1,Car/Other,rent,rad_tel,female,none,none,1,1,1
+48,32,7238,2,2,3,3,none,delayed,unk_nil,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,bank,2,1,2
+33,26,2764,2,1,2,2,none,delayed,<100,skilled / official,1 to less than 4,Car/Other,own,business,female,none,none,1,1,2
+24,35,4679,2,1,3,3,none,delayed,<100,unskilled (resident),4 to less than 7,Car/Other,own,car_used,male_single,none,none,1,1,2
+24,22,3092,1,1,3,2,0 to 200,repaid,101 to 500,skilled / official,less than 1,Car/Other,rent,rad_tel,male_mw,none,none,1,1,1
+6,23,448,1,1,4,4,< 0,repaid,<100,skilled / official,less than 1,BSSA/Life,own,edu,female,none,none,2,1,1
+9,28,654,1,1,4,3,< 0,repaid,<100,unskilled (resident),1 to less than 4,Car/Other,own,car_new,male_single,none,none,2,1,1
+6,36,1238,1,2,4,4,none,repaid,unk_nil,man/self-em/HQ/off,unemployed,BSSA/Life,own,retain,male_single,none,none,1,1,2
+18,33,1245,1,1,4,2,0 to 200,critical,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,male_mw,none,none,2,1,1
+18,26,3114,1,1,1,4,< 0,fully repaid,<100,skilled / official,less than 1,BSSA/Life,rent,fur_equ,female,none,none,2,1,1
+39,24,2569,1,1,4,4,none,repaid,501 to 1000,skilled / official,1 to less than 4,Car/Other,own,car_used,male_single,none,none,2,1,2
+24,25,5152,1,1,4,2,> 201,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,rad_tel,male_single,none,bank,2,1,2
+12,39,1037,1,1,3,4,0 to 200,repaid,101 to 500,unskilled (resident),4 to less than 7,real estate,own,business,male_single,none,none,2,1,2
+15,44,1478,2,2,4,4,< 0,critical,<100,skilled / official,more than 7,Car/Other,own,fur_equ,male_single,none,none,1,1,2
+12,23,3573,1,1,1,1,0 to 200,critical,<100,unskilled (resident),1 to less than 4,real estate,own,rad_tel,female,none,none,2,1,2
+24,26,1201,1,1,4,1,0 to 200,repaid,<100,skilled / official,less than 1,BSSA/Life,own,car_new,male_single,none,none,2,1,2
+30,57,3622,2,1,4,4,< 0,repaid,>1000,skilled / official,more than 7,BSSA/Life,rent,fur_equ,female,none,none,1,1,2
+15,30,960,2,1,3,2,none,delayed,>1000,skilled / official,4 to less than 7,BSSA/Life,own,fur_equ,female,none,none,2,1,2
+12,44,1163,1,1,4,4,none,critical,501 to 1000,skilled / official,1 to less than 4,real estate,own,car_new,male_single,none,none,1,1,2
+6,47,1209,1,1,4,4,0 to 200,delayed,<100,man/self-em/HQ/off,unemployed,BSSA/Life,own,car_new,male_single,none,none,1,1,1
+12,52,3077,1,1,2,4,none,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+24,62,3757,1,1,4,4,none,repaid,<100,skilled / official,more than 7,UNK/None,free,car_new,female,coapplicant,none,1,1,2
+10,35,1418,1,1,3,2,none,repaid,101 to 500,unskilled (resident),1 to less than 4,real estate,rent,car_new,male_single,none,none,2,2,2
+6,26,3518,1,1,2,3,none,repaid,<100,skilled / official,1 to less than 4,BSSA/Life,rent,car_new,male_single,guarantor,none,2,1,2
+12,26,1934,2,1,2,2,none,critical,<100,skilled / official,more than 7,UNK/None,own,rad_tel,male_single,none,none,2,1,2
+27,42,8318,2,1,2,4,0 to 200,fully repaid,<100,man/self-em/HQ/off,more than 7,UNK/None,free,business,female,none,none,1,1,1
+6,27,1237,2,1,1,1,none,critical,101 to 500,skilled / official,1 to less than 4,BSSA/Life,own,rad_tel,female,none,none,2,1,2
+6,38,368,1,1,4,4,0 to 200,repaid,unk_nil,skilled / official,more than 7,BSSA/Life,own,rad_tel,male_single,none,none,2,1,2
+12,39,2122,2,2,3,2,< 0,critical,<100,unskilled (resident),1 to less than 4,real estate,rent,car_new,male_single,none,none,2,2,2
+24,20,2996,1,1,2,4,< 0,repaid,unk_nil,skilled / official,1 to less than 4,Car/Other,own,fur_equ,male_mw,none,none,2,1,1
+36,29,9034,1,1,4,1,0 to 200,repaid,101 to 500,man/self-em/HQ/off,less than 1,UNK/None,rent,fur_equ,male_single,coapplicant,none,1,1,1
+24,40,1585,2,1,4,3,none,critical,<100,skilled / official,4 to less than 7,BSSA/Life,own,fur_equ,male_single,none,none,2,1,2
+18,32,1301,1,1,4,2,0 to 200,repaid,<100,unskilled (resident),more than 7,real estate,own,rad_tel,male_mw,guarantor,none,2,1,2
+6,28,1323,2,2,2,4,> 201,critical,101 to 500,skilled / official,more than 7,Car/Other,own,car_new,male_ds,none,none,1,1,2
+24,27,3123,1,1,4,1,< 0,repaid,<100,skilled / official,less than 1,BSSA/Life,own,car_new,female,none,none,2,1,1
+36,42,5493,1,2,2,4,< 0,repaid,<100,skilled / official,more than 7,UNK/None,free,car_used,male_single,none,none,2,1,2
+9,49,1126,1,1,2,4,> 201,repaid,101 to 500,skilled / official,more than 7,real estate,own,rad_tel,male_ds,none,none,2,1,2
+24,38,1216,2,2,4,4,0 to 200,critical,101 to 500,skilled / official,less than 1,UNK/None,own,rad_tel,male_single,none,bank,2,1,1
+24,24,1207,1,1,4,4,< 0,repaid,<100,skilled / official,less than 1,BSSA/Life,rent,car_new,female,none,none,2,1,1
+10,27,1309,1,1,4,4,none,repaid,unk_nil,unskilled (resident),1 to less than 4,BSSA/Life,own,car_new,male_single,guarantor,none,2,1,1
+15,36,2360,1,1,2,2,> 201,critical,501 to 1000,skilled / official,1 to less than 4,Car/Other,own,car_used,male_single,none,none,1,1,2
+15,34,6850,1,2,1,2,0 to 200,fully repaid here,101 to 500,man/self-em/HQ/off,unemployed,BSSA/Life,own,car_new,male_single,none,none,1,1,1
+24,28,1413,1,1,4,2,none,repaid,<100,skilled / official,1 to less than 4,BSSA/Life,own,rad_tel,male_mw,none,none,2,1,2
+39,45,8588,1,1,4,2,none,repaid,101 to 500,man/self-em/HQ/off,more than 7,Car/Other,own,car_used,male_single,none,none,1,1,2
+12,26,759,1,1,4,2,< 0,repaid,<100,skilled / official,4 to less than 7,real estate,own,car_new,male_single,none,none,2,1,1
+36,32,4686,1,1,2,2,none,repaid,<100,man/self-em/HQ/off,1 to less than 4,UNK/None,free,car_used,male_single,none,none,1,1,2
+15,26,2687,1,1,2,4,> 201,repaid,<100,skilled / official,4 to less than 7,BSSA/Life,rent,business,male_single,none,none,1,1,2
+12,20,585,2,1,4,4,0 to 200,delayed,<100,skilled / official,1 to less than 4,real estate,rent,rad_tel,male_mw,coapplicant,none,2,1,2
+24,54,2255,1,1,4,1,none,repaid,unk_nil,skilled / official,less than 1,BSSA/Life,own,car_new,male_single,none,none,2,1,2
+6,37,609,2,1,4,3,< 0,critical,<100,skilled / official,4 to less than 7,BSSA/Life,own,car_new,female,none,none,2,2,2
+6,40,1361,1,2,2,4,< 0,critical,<100,unskilled (resident),less than 1,real estate,own,car_new,male_single,none,none,2,2,2
+36,23,7127,2,1,2,4,none,critical,<100,skilled / official,less than 1,BSSA/Life,rent,fur_equ,female,none,none,1,1,1
+6,43,1203,1,1,3,2,< 0,repaid,101 to 500,skilled / official,more than 7,BSSA/Life,own,car_new,male_single,none,none,1,1,2
+6,36,700,2,1,4,4,none,critical,unk_nil,skilled / official,more than 7,UNK/None,free,rad_tel,male_single,none,none,2,1,2
+24,44,5507,2,1,3,4,none,critical,<100,skilled / official,more than 7,UNK/None,free,repairs,male_single,none,none,2,1,2
+18,24,3190,1,1,2,2,< 0,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,female,none,none,2,1,1
+48,53,7119,2,2,3,4,< 0,fully repaid,<100,skilled / official,1 to less than 4,UNK/None,free,fur_equ,male_single,none,none,2,1,1
+24,23,3488,1,1,3,4,none,repaid,101 to 500,skilled / official,4 to less than 7,Car/Other,own,car_used,female,none,none,2,1,2
+18,26,1113,1,2,4,4,0 to 200,repaid,<100,unskilled (resident),1 to less than 4,real estate,own,rad_tel,female,guarantor,none,2,1,2
+26,30,7966,2,1,2,3,0 to 200,repaid,<100,skilled / official,less than 1,Car/Other,own,car_used,male_single,none,none,2,1,2
+15,31,1532,1,1,4,3,none,critical,101 to 500,skilled / official,1 to less than 4,Car/Other,own,edu,female,none,none,2,1,2
+4,42,1503,2,2,2,1,none,critical,<100,unskilled (resident),4 to less than 7,real estate,own,rad_tel,male_single,none,none,2,1,2
+36,31,2302,1,1,4,4,< 0,repaid,<100,skilled / official,1 to less than 4,Car/Other,rent,rad_tel,male_ds,none,none,2,1,1
+6,41,662,1,2,3,4,< 0,repaid,<100,unskilled (resident),less than 1,real estate,own,car_new,male_single,none,none,1,1,2
+36,32,2273,2,2,3,1,0 to 200,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,edu,male_single,none,none,2,1,2
+15,28,2631,2,1,2,4,0 to 200,repaid,101 to 500,skilled / official,1 to less than 4,Car/Other,rent,car_new,female,none,none,1,1,1
+12,41,1503,1,1,4,4,none,delayed,<100,skilled / official,1 to less than 4,real estate,rent,car_used,male_mw,none,none,2,1,2
+24,26,1311,1,1,4,3,none,repaid,101 to 500,skilled / official,4 to less than 7,BSSA/Life,own,rad_tel,male_mw,none,none,1,1,2
+24,25,3105,2,1,4,2,none,repaid,unk_nil,skilled / official,less than 1,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+21,33,2319,1,1,2,1,> 201,critical,<100,skilled / official,less than 1,Car/Other,rent,edu,male_ds,none,none,2,1,1
+6,75,1374,1,1,4,3,< 0,repaid,unk_nil,man/self-em/HQ/off,unemployed,BSSA/Life,own,car_new,female,none,none,1,1,2
+18,37,3612,1,1,3,4,0 to 200,critical,<100,skilled / official,more than 7,BSSA/Life,own,fur_equ,female,none,none,1,1,2
+48,42,7763,1,1,4,4,< 0,repaid,<100,man/self-em/HQ/off,more than 7,UNK/None,free,car_new,male_single,none,bank,2,1,1
+18,45,3049,1,1,1,1,> 201,repaid,<100,unskilled (resident),less than 1,BSSA/Life,own,fur_equ,female,none,stores,2,1,2
+12,23,1534,1,1,1,1,0 to 200,repaid,<100,skilled / official,less than 1,real estate,rent,rad_tel,male_mw,none,none,2,1,1
+24,60,2032,2,1,4,4,none,delayed,<100,skilled / official,more than 7,UNK/None,free,car_new,male_single,none,none,1,1,2
+30,31,6350,1,1,4,4,< 0,repaid,unk_nil,skilled / official,more than 7,BSSA/Life,own,fur_equ,male_single,none,none,2,1,1
+18,34,2864,1,2,2,1,> 201,repaid,<100,unskilled (resident),1 to less than 4,real estate,own,fur_equ,male_single,none,none,2,1,1
+12,61,1255,2,1,4,4,none,critical,<100,unskilled (resident),more than 7,real estate,own,car_new,male_single,none,none,2,1,2
+24,43,1333,2,2,4,2,< 0,delayed,<100,skilled / official,unemployed,real estate,free,car_new,male_single,none,none,2,1,1
+24,37,2022,1,1,4,4,none,critical,<100,skilled / official,1 to less than 4,Car/Other,own,car_new,female,none,none,1,1,2
+24,32,1552,1,2,3,1,none,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,rad_tel,male_single,none,bank,2,1,2
+12,24,626,1,1,4,4,< 0,fully repaid here,<100,unskilled (resident),1 to less than 4,real estate,own,rad_tel,female,none,bank,2,1,1
+48,35,8858,2,1,2,1,none,critical,unk_nil,skilled / official,4 to less than 7,UNK/None,free,car_used,male_single,none,none,1,1,2
+12,23,996,2,1,4,4,none,critical,unk_nil,skilled / official,4 to less than 7,real estate,own,repairs,female,none,none,2,1,2
+6,45,1750,1,2,2,4,none,fully repaid here,501 to 1000,unskilled (resident),more than 7,BSSA/Life,own,rad_tel,male_single,none,bank,2,1,2
+48,34,6999,2,1,1,1,< 0,repaid,<100,skilled / official,4 to less than 7,real estate,own,rad_tel,male_mw,guarantor,none,1,1,1
+12,27,1995,1,1,4,1,0 to 200,critical,101 to 500,skilled / official,less than 1,Car/Other,own,car_new,male_single,none,none,2,1,2
+9,67,1199,2,1,4,4,0 to 200,repaid,<100,man/self-em/HQ/off,4 to less than 7,BSSA/Life,own,edu,female,none,none,1,1,2
+12,22,1331,1,1,2,1,0 to 200,repaid,<100,skilled / official,less than 1,Car/Other,own,rad_tel,male_single,none,stores,2,1,1
+18,28,2278,2,1,3,3,0 to 200,fully repaid,101 to 500,skilled / official,less than 1,Car/Other,own,car_new,female,none,none,2,1,1
+21,29,5003,2,1,1,4,none,fully repaid,unk_nil,skilled / official,1 to less than 4,BSSA/Life,own,car_new,female,none,bank,1,1,1
+24,27,3552,1,1,3,4,< 0,fully repaid here,<100,skilled / official,4 to less than 7,Car/Other,own,fur_equ,male_single,none,bank,2,1,1
+18,31,1928,2,1,2,2,0 to 200,critical,<100,unskilled (resident),less than 1,real estate,own,fur_equ,male_single,none,none,2,1,1
+24,49,2964,1,2,4,4,< 0,repaid,unk_nil,skilled / official,more than 7,UNK/None,free,car_used,male_single,none,bank,1,1,2
+24,24,1546,1,1,4,4,< 0,fully repaid here,<100,unskilled (resident),4 to less than 7,Car/Other,rent,rad_tel,male_single,guarantor,bank,2,1,1
+6,29,683,1,1,2,1,> 201,delayed,<100,skilled / official,less than 1,BSSA/Life,own,rad_tel,female,none,bank,2,1,2
+36,37,12389,1,1,1,4,0 to 200,repaid,unk_nil,skilled / official,1 to less than 4,UNK/None,free,car_new,male_single,none,none,1,1,1
+24,37,4712,2,1,4,2,0 to 200,delayed,unk_nil,man/self-em/HQ/off,1 to less than 4,BSSA/Life,own,business,male_single,none,bank,1,1,2
+24,23,1553,2,1,3,2,0 to 200,delayed,101 to 500,skilled / official,4 to less than 7,BSSA/Life,rent,rad_tel,female,none,none,1,1,2
+12,36,1372,1,1,2,3,< 0,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,car_new,male_ds,none,none,2,1,1
+24,34,2578,1,1,2,2,none,critical,>1000,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+48,41,3979,2,2,4,1,0 to 200,repaid,unk_nil,skilled / official,4 to less than 7,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+48,31,6758,1,1,3,2,< 0,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,none,1,1,1
+24,23,3234,1,1,4,4,< 0,repaid,<100,unskilled (resident),less than 1,real estate,rent,fur_equ,female,none,none,1,1,1
+30,38,5954,1,1,3,2,none,critical,<100,skilled / official,4 to less than 7,Car/Other,own,rad_tel,male_single,coapplicant,none,2,1,2
+24,26,5433,1,1,2,4,none,repaid,unk_nil,man/self-em/HQ/off,unemployed,BSSA/Life,rent,car_used,female,none,none,1,1,2
+15,22,806,1,1,4,4,< 0,repaid,<100,unskilled (resident),1 to less than 4,BSSA/Life,own,business,female,none,none,2,1,2
+9,27,1082,2,1,4,4,0 to 200,repaid,<100,unskilled (resident),more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+15,24,2788,2,1,2,3,none,critical,<100,skilled / official,4 to less than 7,Car/Other,own,fur_equ,female,coapplicant,bank,2,1,2
+12,27,2930,1,1,2,1,0 to 200,repaid,<100,skilled / official,4 to less than 7,real estate,own,rad_tel,female,none,none,2,1,2
+24,33,1927,2,1,3,2,none,critical,unk_nil,skilled / official,1 to less than 4,Car/Other,own,edu,female,none,none,1,1,2
+36,27,2820,2,1,4,4,0 to 200,critical,<100,skilled / official,less than 1,Car/Other,own,car_new,male_ds,none,none,2,1,1
+24,27,937,2,1,4,3,none,repaid,<100,unskilled (resident),less than 1,Car/Other,own,retain,male_mw,none,none,2,1,2
+18,30,1056,2,1,3,3,0 to 200,critical,<100,skilled / official,more than 7,real estate,own,car_new,male_single,guarantor,bank,2,1,1
+12,49,3124,2,2,1,3,0 to 200,critical,<100,unskilled (resident),less than 1,real estate,own,car_new,male_single,none,bank,2,1,2
+9,26,1388,1,1,4,2,none,repaid,<100,skilled / official,1 to less than 4,real estate,rent,fur_equ,female,none,none,2,1,2
+36,33,2384,1,1,4,1,0 to 200,repaid,<100,unskilled (resident),less than 1,UNK/None,rent,repairs,male_single,none,none,2,1,1
+12,52,2133,1,1,4,4,none,repaid,unk_nil,man/self-em/HQ/off,more than 7,UNK/None,free,car_new,female,none,none,1,1,2
+18,20,2039,1,1,1,4,< 0,repaid,<100,skilled / official,1 to less than 4,real estate,rent,fur_equ,female,none,bank,2,1,1
+9,36,2799,2,2,2,2,< 0,critical,<100,skilled / official,1 to less than 4,real estate,rent,car_new,male_single,none,none,2,1,2
+12,21,1289,1,1,4,1,< 0,repaid,<100,unskilled (resident),1 to less than 4,BSSA/Life,own,fur_equ,male_single,guarantor,none,2,1,2
+18,47,1217,1,1,4,3,< 0,repaid,<100,unskilled (resident),1 to less than 4,real estate,own,dom_app,male_mw,none,none,1,1,1
+12,60,2246,2,1,3,3,< 0,critical,<100,skilled / official,more than 7,BSSA/Life,own,fur_equ,male_single,none,none,2,1,1
+12,58,385,4,1,4,3,< 0,critical,<100,unskilled (resident),4 to less than 7,real estate,own,rad_tel,female,none,none,1,1,2
+24,42,1965,2,1,4,4,0 to 200,delayed,unk_nil,skilled / official,1 to less than 4,Car/Other,rent,car_new,female,none,none,1,1,2
+21,36,1572,1,1,4,4,none,repaid,>1000,unskilled (resident),more than 7,real estate,own,business,female,none,bank,2,1,2
+24,20,2718,1,1,3,4,0 to 200,repaid,<100,unskilled (resident),1 to less than 4,BSSA/Life,rent,car_new,female,none,none,1,1,1
+24,40,1358,1,1,4,3,< 0,fully repaid here,unk_nil,man/self-em/HQ/off,more than 7,Car/Other,own,car_used,male_single,none,stores,1,1,1
+6,32,931,1,1,1,1,0 to 200,fully repaid here,101 to 500,unskilled (resident),less than 1,BSSA/Life,own,car_new,female,none,stores,2,1,1
+24,23,1442,2,1,4,4,< 0,repaid,<100,skilled / official,4 to less than 7,Car/Other,rent,car_new,female,none,none,2,1,1
+24,36,4241,3,1,1,4,0 to 200,fully repaid,<100,unskilled (resident),1 to less than 4,real estate,own,business,male_single,none,none,1,1,1
+18,31,2775,2,1,2,2,none,critical,<100,skilled / official,4 to less than 7,BSSA/Life,own,car_new,male_single,none,bank,2,1,1
+24,32,3863,1,1,1,2,none,delayed,<100,skilled / official,1 to less than 4,UNK/None,free,business,male_single,none,none,2,1,2
+7,45,2329,1,1,1,1,0 to 200,repaid,<100,skilled / official,less than 1,real estate,own,rad_tel,female,guarantor,none,2,1,2
+9,30,918,1,1,4,1,0 to 200,repaid,<100,skilled / official,1 to less than 4,BSSA/Life,own,fur_equ,female,none,none,2,1,1
+24,34,1837,1,1,4,4,0 to 200,fully repaid here,<100,unskilled (resident),4 to less than 7,UNK/None,free,edu,female,none,bank,2,1,1
+36,28,3349,1,1,4,2,none,repaid,<100,man/self-em/HQ/off,1 to less than 4,Car/Other,own,fur_equ,female,none,none,1,1,1
+10,23,1275,1,1,4,2,> 201,repaid,<100,skilled / official,less than 1,BSSA/Life,own,fur_equ,female,none,none,2,1,2
+24,22,2828,1,1,4,4,< 0,fully repaid here,501 to 1000,skilled / official,1 to less than 4,real estate,own,fur_equ,male_single,none,stores,1,1,2
+24,74,4526,1,1,3,2,none,critical,<100,man/self-em/HQ/off,1 to less than 4,real estate,own,business,male_single,none,none,1,1,2
+36,50,2671,1,1,4,4,0 to 200,repaid,101 to 500,skilled / official,1 to less than 4,UNK/None,free,rad_tel,female,coapplicant,none,2,1,1
+18,33,2051,1,1,4,1,none,repaid,<100,skilled / official,less than 1,real estate,own,rad_tel,male_single,none,none,2,1,2
+15,45,1300,1,2,4,4,none,repaid,unk_nil,skilled / official,more than 7,UNK/None,free,car_used,male_single,none,bank,2,1,2
+12,22,741,1,1,4,3,< 0,repaid,101 to 500,skilled / official,unemployed,BSSA/Life,own,dom_app,female,none,none,2,1,1
+10,48,1240,1,2,1,4,> 201,repaid,101 to 500,unskilled (resident),more than 7,UNK/None,free,car_new,female,none,none,2,1,1
+21,29,3357,1,1,4,2,< 0,repaid,>1000,skilled / official,less than 1,Car/Other,own,rad_tel,female,none,bank,2,1,2
+24,22,3632,1,1,1,4,< 0,fully repaid here,<100,skilled / official,1 to less than 4,Car/Other,rent,car_used,female,guarantor,bank,2,2,2
+18,22,1808,1,1,4,1,none,delayed,<100,skilled / official,4 to less than 7,real estate,own,fur_equ,female,none,none,2,1,1
+48,48,12204,1,1,2,2,0 to 200,fully repaid,unk_nil,man/self-em/HQ/off,1 to less than 4,Car/Other,own,business,male_single,none,bank,1,1,2
+60,27,9157,1,1,2,2,0 to 200,delayed,unk_nil,man/self-em/HQ/off,1 to less than 4,UNK/None,free,rad_tel,male_single,none,none,2,1,2
+6,37,3676,3,2,1,3,< 0,critical,<100,skilled / official,1 to less than 4,real estate,rent,car_new,male_single,none,none,2,1,2
+30,21,3441,1,1,2,4,0 to 200,repaid,101 to 500,skilled / official,1 to less than 4,Car/Other,rent,fur_equ,female,coapplicant,none,2,1,1
+12,49,640,1,1,4,2,none,repaid,<100,unskilled (resident),1 to less than 4,real estate,own,car_new,male_ds,none,none,2,1,2
+21,27,3652,2,1,2,3,0 to 200,critical,<100,skilled / official,4 to less than 7,BSSA/Life,own,business,male_single,none,none,2,1,2
+18,32,1530,2,1,3,2,none,critical,<100,skilled / official,1 to less than 4,BSSA/Life,own,car_new,male_single,none,bank,2,1,1
+48,38,3914,1,1,4,2,none,repaid,unk_nil,skilled / official,1 to less than 4,real estate,own,business,male_ds,none,bank,2,1,1
+12,22,1858,1,1,4,1,< 0,repaid,<100,skilled / official,less than 1,Car/Other,rent,fur_equ,female,none,none,2,1,2
+18,65,2600,2,1,4,4,< 0,repaid,<100,skilled / official,1 to less than 4,UNK/None,free,rad_tel,male_single,none,none,2,1,1
+15,35,1979,1,1,4,2,none,repaid,unk_nil,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+6,41,2116,1,1,2,2,> 201,repaid,<100,skilled / official,1 to less than 4,real estate,own,fur_equ,male_single,none,none,1,1,2
+9,29,1437,1,1,2,3,0 to 200,fully repaid here,101 to 500,skilled / official,4 to less than 7,UNK/None,own,car_new,male_single,none,none,2,1,1
+42,36,4042,2,1,4,4,none,critical,501 to 1000,skilled / official,1 to less than 4,real estate,own,fur_equ,male_single,none,none,1,1,2
+9,64,3832,1,1,1,4,none,repaid,unk_nil,unskilled (resident),more than 7,real estate,own,edu,male_single,none,none,2,1,2
+24,28,3660,1,1,2,4,< 0,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,none,2,1,2
+18,44,1553,1,1,4,3,< 0,fully repaid here,<100,skilled / official,1 to less than 4,Car/Other,own,fur_equ,male_single,none,bank,2,1,1
+15,23,1444,1,1,4,1,0 to 200,repaid,unk_nil,skilled / official,less than 1,BSSA/Life,own,rad_tel,male_single,none,none,2,1,2
+9,19,1980,2,1,2,2,none,repaid,<100,skilled / official,less than 1,Car/Other,rent,fur_equ,female,coapplicant,none,2,1,1
+24,25,1355,1,1,3,4,0 to 200,repaid,<100,unskilled (resident),less than 1,Car/Other,own,car_new,female,none,none,1,1,1
+12,47,1393,3,2,4,4,none,repaid,<100,skilled / official,more than 7,BSSA/Life,own,edu,male_single,none,bank,1,1,2
+24,28,1376,1,1,4,1,none,repaid,501 to 1000,skilled / official,4 to less than 7,Car/Other,own,rad_tel,female,none,none,2,1,2
+60,21,15653,2,1,2,4,none,delayed,<100,skilled / official,4 to less than 7,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+12,34,1493,1,2,4,3,none,repaid,<100,skilled / official,less than 1,Car/Other,own,rad_tel,female,none,none,2,1,2
+42,26,4370,2,2,3,2,< 0,delayed,<100,skilled / official,4 to less than 7,BSSA/Life,own,rad_tel,male_single,none,bank,1,1,1
+18,27,750,1,1,4,1,< 0,repaid,<100,unemp / unskill (non-res),unemployed,real estate,own,edu,female,none,none,2,1,1
+15,38,1308,2,1,4,4,0 to 200,repaid,<100,unskilled (resident),more than 7,Car/Other,own,repairs,male_single,none,none,2,1,2
+15,40,4623,1,1,3,2,none,repaid,101 to 500,man/self-em/HQ/off,1 to less than 4,BSSA/Life,own,edu,male_single,none,none,1,1,1
+24,33,1851,2,1,4,2,none,critical,<100,skilled / official,4 to less than 7,Car/Other,own,rad_tel,male_mw,guarantor,none,1,1,2
+18,32,1880,2,1,4,1,< 0,critical,<100,man/self-em/HQ/off,4 to less than 7,BSSA/Life,own,rad_tel,male_mw,none,none,1,1,2
+36,27,7980,2,1,4,4,none,delayed,unk_nil,skilled / official,less than 1,Car/Other,rent,business,male_single,none,none,1,1,1
+30,32,4583,2,1,2,2,< 0,fully repaid,<100,skilled / official,1 to less than 4,real estate,own,fur_equ,male_ds,guarantor,none,2,1,2
+12,26,1386,1,1,2,2,none,repaid,501 to 1000,skilled / official,1 to less than 4,BSSA/Life,own,car_new,female,none,none,2,1,1
+24,38,947,1,2,4,3,> 201,repaid,<100,skilled / official,4 to less than 7,UNK/None,free,car_new,male_single,none,bank,2,1,1
+12,40,684,1,2,4,4,< 0,repaid,<100,unskilled (resident),1 to less than 4,Car/Other,rent,edu,male_single,none,none,2,1,1
+48,50,7476,1,1,4,1,< 0,repaid,<100,man/self-em/HQ/off,4 to less than 7,UNK/None,free,edu,male_single,none,none,1,1,2
+12,37,1922,1,1,4,2,0 to 200,repaid,<100,unskilled (resident),1 to less than 4,BSSA/Life,own,fur_equ,male_single,none,none,2,1,1
+24,45,2303,1,1,4,1,< 0,repaid,<100,skilled / official,more than 7,real estate,own,car_new,male_single,coapplicant,none,2,1,1
+36,42,8086,4,1,2,4,0 to 200,delayed,101 to 500,man/self-em/HQ/off,more than 7,Car/Other,own,car_new,male_single,none,none,1,1,1
+24,35,2346,2,1,4,3,none,critical,<100,skilled / official,4 to less than 7,Car/Other,own,car_used,male_single,none,none,1,1,2
+14,22,3973,1,1,1,4,< 0,repaid,<100,skilled / official,unemployed,UNK/None,free,car_new,male_single,none,none,2,1,2
+12,41,888,1,2,4,4,0 to 200,repaid,<100,unskilled (resident),more than 7,Car/Other,own,car_new,male_single,none,bank,2,1,1
+48,37,10222,1,1,4,3,none,repaid,unk_nil,skilled / official,4 to less than 7,Car/Other,own,rad_tel,male_single,none,stores,1,1,2
+30,28,4221,2,1,2,1,0 to 200,fully repaid,<100,skilled / official,1 to less than 4,Car/Other,own,business,female,none,none,2,1,2
+18,41,6361,1,1,2,1,0 to 200,critical,<100,skilled / official,more than 7,UNK/None,own,fur_equ,male_single,none,none,1,1,2
+12,23,1297,1,1,3,4,> 201,repaid,<100,skilled / official,1 to less than 4,real estate,rent,rad_tel,male_mw,none,none,2,1,2
+12,23,900,1,1,4,2,< 0,repaid,unk_nil,skilled / official,1 to less than 4,Car/Other,own,car_new,male_mw,none,none,2,1,1
+21,50,2241,2,1,4,2,none,repaid,<100,skilled / official,more than 7,real estate,own,fur_equ,male_single,none,none,2,1,2
+6,35,1050,2,1,4,1,0 to 200,delayed,<100,man/self-em/HQ/off,unemployed,BSSA/Life,own,fur_equ,male_single,none,stores,1,1,2
+6,50,1047,1,1,2,4,> 201,critical,<100,unskilled (resident),1 to less than 4,BSSA/Life,own,edu,female,none,none,2,1,2
+24,27,6314,2,1,4,2,none,critical,<100,man/self-em/HQ/off,unemployed,UNK/None,own,car_used,male_single,coapplicant,bank,1,1,2
+30,34,3496,1,2,4,2,0 to 200,fully repaid here,>1000,skilled / official,1 to less than 4,Car/Other,own,fur_equ,male_single,none,stores,1,1,2
+48,27,3609,1,1,1,1,none,fully repaid here,<100,skilled / official,1 to less than 4,real estate,own,business,female,none,stores,2,1,2
+12,43,4843,2,1,3,4,< 0,critical,<100,skilled / official,more than 7,BSSA/Life,rent,car_new,male_single,coapplicant,none,1,1,1
+30,47,3017,1,1,4,4,> 201,critical,<100,skilled / official,more than 7,BSSA/Life,own,rad_tel,male_single,none,none,2,1,2
+24,27,4139,2,1,3,3,none,critical,101 to 500,unskilled (resident),1 to less than 4,BSSA/Life,own,business,male_single,none,none,1,1,2
+36,31,5742,2,1,2,2,none,repaid,101 to 500,skilled / official,4 to less than 7,Car/Other,own,business,male_single,none,none,1,1,2
+60,42,10366,1,1,2,4,none,repaid,<100,man/self-em/HQ/off,more than 7,BSSA/Life,own,car_new,male_single,none,none,1,1,2
+6,24,2080,1,1,1,2,none,critical,501 to 1000,skilled / official,1 to less than 4,Car/Other,own,car_new,male_mw,none,none,2,1,2
+21,41,2580,1,2,4,2,none,delayed,501 to 1000,unskilled (resident),less than 1,real estate,own,business,male_single,none,bank,2,1,1
+30,26,4530,1,1,4,4,none,critical,<100,man/self-em/HQ/off,4 to less than 7,Car/Other,rent,rad_tel,female,none,none,1,1,2
+24,33,5150,1,1,4,4,none,critical,<100,skilled / official,more than 7,Car/Other,own,fur_equ,male_single,none,none,1,1,2
+72,24,5595,1,1,2,2,0 to 200,repaid,101 to 500,skilled / official,1 to less than 4,Car/Other,own,rad_tel,male_mw,none,none,2,1,1
+24,64,2384,1,1,4,4,< 0,repaid,<100,unskilled (resident),more than 7,real estate,rent,rad_tel,male_single,none,bank,2,1,2
+18,26,1453,1,1,3,1,none,repaid,<100,skilled / official,less than 1,real estate,own,rad_tel,female,none,none,2,1,2
+6,56,1538,1,1,1,2,none,repaid,<100,skilled / official,less than 1,UNK/None,own,edu,female,none,none,2,1,2
+12,37,2279,1,1,4,4,none,repaid,unk_nil,skilled / official,1 to less than 4,UNK/None,free,rad_tel,male_single,none,none,1,1,2
+15,33,1478,2,1,4,3,none,delayed,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,male_mw,none,bank,2,1,2
+24,47,5103,3,1,3,3,none,critical,<100,skilled / official,less than 1,UNK/None,free,rad_tel,male_mw,none,none,1,1,2
+36,31,9857,2,2,1,3,0 to 200,delayed,101 to 500,unskilled (resident),4 to less than 7,BSSA/Life,own,business,male_single,none,none,1,1,2
+60,34,6527,1,2,4,4,none,repaid,unk_nil,skilled / official,1 to less than 4,UNK/None,free,car_new,male_single,none,none,1,1,2
+10,27,1347,2,1,4,2,> 201,critical,unk_nil,skilled / official,4 to less than 7,BSSA/Life,own,rad_tel,male_single,none,none,1,1,2
+36,30,2862,1,1,4,3,0 to 200,delayed,101 to 500,skilled / official,more than 7,UNK/None,free,car_new,male_single,none,none,2,1,2
+9,35,2753,1,1,3,4,none,repaid,101 to 500,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,coapplicant,none,1,1,2
+12,31,3651,1,2,1,3,< 0,repaid,>1000,skilled / official,1 to less than 4,BSSA/Life,own,car_new,male_single,none,none,2,1,2
+15,25,975,2,1,2,3,< 0,critical,<100,skilled / official,1 to less than 4,BSSA/Life,own,fur_equ,male_ds,none,none,2,1,2
+15,25,2631,1,1,3,2,0 to 200,repaid,101 to 500,unskilled (resident),1 to less than 4,real estate,own,repairs,female,none,none,2,1,2
+24,29,2896,1,1,2,1,0 to 200,repaid,101 to 500,skilled / official,less than 1,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+6,44,4716,2,2,1,3,< 0,critical,unk_nil,unskilled (resident),less than 1,real estate,own,car_new,male_single,none,none,2,1,2
+24,28,2284,1,1,4,2,none,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+6,50,1236,1,1,2,4,none,repaid,501 to 1000,skilled / official,1 to less than 4,BSSA/Life,rent,car_used,male_single,none,none,2,1,2
+12,29,1103,2,1,4,3,0 to 200,repaid,<100,skilled / official,4 to less than 7,real estate,own,rad_tel,male_single,guarantor,none,2,2,2
+12,38,926,1,1,1,2,none,critical,<100,unemp / unskill (non-res),unemployed,BSSA/Life,own,car_new,female,none,none,2,1,2
+18,24,1800,2,1,4,2,none,critical,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+15,40,1905,1,1,4,4,> 201,repaid,<100,man/self-em/HQ/off,more than 7,Car/Other,rent,edu,male_single,none,none,1,1,2
+12,29,1123,1,1,4,4,none,repaid,501 to 1000,unskilled (resident),1 to less than 4,Car/Other,rent,fur_equ,female,none,none,2,1,1
+48,46,6331,2,1,4,4,< 0,critical,<100,skilled / official,more than 7,UNK/None,free,car_used,male_single,none,none,1,1,1
+24,47,1377,1,1,4,2,> 201,repaid,101 to 500,skilled / official,more than 7,UNK/None,free,rad_tel,female,none,none,1,1,2
+30,41,2503,2,1,4,2,0 to 200,delayed,101 to 500,skilled / official,more than 7,BSSA/Life,own,business,male_single,none,stores,2,1,2
+27,32,2528,1,2,4,1,0 to 200,repaid,<100,skilled / official,less than 1,BSSA/Life,own,business,female,none,none,1,1,2
+15,35,5324,1,1,1,4,none,repaid,501 to 1000,skilled / official,more than 7,UNK/None,free,car_new,female,none,none,2,1,2
+48,24,6560,1,1,3,2,0 to 200,repaid,101 to 500,skilled / official,4 to less than 7,BSSA/Life,own,car_new,male_single,none,none,2,1,1
+12,25,2969,2,1,4,3,0 to 200,fully repaid,<100,skilled / official,less than 1,BSSA/Life,rent,fur_equ,female,none,none,2,1,1
+9,25,1206,1,1,4,4,0 to 200,repaid,<100,skilled / official,more than 7,real estate,own,rad_tel,female,none,none,2,1,2
+9,37,2118,1,2,2,2,0 to 200,repaid,<100,unskilled (resident),1 to less than 4,real estate,own,rad_tel,male_single,none,none,2,1,2
+18,32,629,2,1,4,3,none,critical,501 to 1000,man/self-em/HQ/off,more than 7,BSSA/Life,own,rad_tel,male_single,none,bank,1,1,2
+6,35,1198,1,1,4,4,< 0,fully repaid here,<100,skilled / official,more than 7,UNK/None,free,edu,female,none,none,2,1,1
+21,46,2476,1,1,4,4,none,repaid,unk_nil,man/self-em/HQ/off,more than 7,real estate,own,car_used,male_single,none,none,1,1,2
+9,25,1138,2,1,4,4,< 0,critical,<100,unskilled (resident),1 to less than 4,real estate,own,rad_tel,male_single,none,none,2,1,2
+60,27,14027,1,1,4,2,0 to 200,repaid,<100,man/self-em/HQ/off,4 to less than 7,UNK/None,own,car_new,male_single,none,none,1,1,1
+30,63,7596,2,1,1,4,none,critical,unk_nil,skilled / official,more than 7,Car/Other,own,car_used,male_single,none,none,2,1,2
+30,40,3077,2,2,3,2,none,critical,unk_nil,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+18,32,1505,1,1,4,2,none,repaid,<100,man/self-em/HQ/off,1 to less than 4,UNK/None,free,rad_tel,male_single,none,none,1,1,2
+24,31,3148,2,1,3,2,> 201,critical,unk_nil,skilled / official,1 to less than 4,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+20,31,6148,2,1,3,4,0 to 200,fully repaid,101 to 500,skilled / official,more than 7,Car/Other,own,car_used,male_mw,none,bank,1,1,2
+9,34,1337,2,1,4,2,> 201,fully repaid,<100,man/self-em/HQ/off,less than 1,Car/Other,own,rad_tel,male_single,none,none,1,1,1
+6,24,433,1,2,4,2,0 to 200,fully repaid here,>1000,skilled / official,less than 1,BSSA/Life,rent,edu,female,none,bank,2,1,1
+12,24,1228,1,1,4,2,< 0,repaid,<100,unskilled (resident),1 to less than 4,real estate,own,car_new,female,none,none,2,1,1
+9,66,790,1,1,4,3,0 to 200,repaid,501 to 1000,unskilled (resident),1 to less than 4,real estate,own,rad_tel,female,none,none,2,1,2
+27,21,2570,1,1,3,3,none,repaid,<100,skilled / official,1 to less than 4,real estate,rent,car_new,female,none,none,2,1,1
+6,41,250,2,1,2,2,none,critical,>1000,unskilled (resident),1 to less than 4,real estate,own,car_new,female,none,bank,2,1,2
+15,47,1316,2,1,2,2,none,critical,501 to 1000,unskilled (resident),1 to less than 4,BSSA/Life,own,rad_tel,male_mw,none,none,2,1,2
+18,25,1882,2,1,4,4,< 0,repaid,<100,skilled / official,1 to less than 4,Car/Other,rent,rad_tel,female,none,bank,2,1,1
+48,59,6416,1,1,4,3,0 to 200,fully repaid here,<100,skilled / official,more than 7,UNK/None,rent,business,female,none,none,2,1,1
+24,36,1275,2,1,2,4,> 201,critical,>1000,skilled / official,1 to less than 4,real estate,own,business,male_ds,none,none,1,1,2
+24,33,6403,1,1,1,2,0 to 200,delayed,<100,skilled / official,less than 1,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+24,21,1987,1,2,2,4,< 0,repaid,<100,unskilled (resident),1 to less than 4,real estate,rent,rad_tel,male_single,none,none,2,1,1
+8,44,760,1,1,4,2,0 to 200,repaid,<100,unskilled (resident),4 to less than 7,real estate,own,rad_tel,female,guarantor,none,2,1,2
+24,28,2603,1,1,2,4,none,repaid,>1000,skilled / official,1 to less than 4,Car/Other,rent,car_used,female,none,none,1,1,2
+4,37,3380,1,2,1,1,none,critical,<100,skilled / official,4 to less than 7,real estate,own,car_new,female,none,none,2,1,2
+36,29,3990,1,1,3,2,0 to 200,fully repaid here,unk_nil,unemp / unskill (non-res),less than 1,UNK/None,own,dom_app,female,none,bank,2,1,2
+24,23,11560,2,1,1,4,0 to 200,repaid,<100,man/self-em/HQ/off,1 to less than 4,Car/Other,rent,car_used,female,none,none,2,1,1
+18,35,4380,1,2,3,4,< 0,repaid,101 to 500,unskilled (resident),1 to less than 4,Car/Other,own,car_new,male_single,none,none,1,1,2
+6,45,6761,2,2,1,3,none,critical,<100,man/self-em/HQ/off,4 to less than 7,UNK/None,own,car_new,male_single,none,none,1,1,2
+30,26,4280,2,1,4,4,0 to 200,fully repaid,101 to 500,unskilled (resident),1 to less than 4,Car/Other,rent,business,female,none,none,2,1,1
+24,32,2325,1,1,2,3,< 0,fully repaid here,101 to 500,skilled / official,4 to less than 7,Car/Other,own,car_new,male_single,none,bank,2,1,2
+10,23,1048,1,1,4,4,0 to 200,fully repaid here,<100,unskilled (resident),1 to less than 4,real estate,own,rad_tel,male_single,none,stores,2,1,2
+21,41,3160,1,1,4,3,none,repaid,unk_nil,skilled / official,more than 7,BSSA/Life,own,rad_tel,male_single,none,none,1,1,2
+24,22,2483,1,1,4,4,< 0,fully repaid here,501 to 1000,skilled / official,1 to less than 4,real estate,own,fur_equ,male_single,none,stores,1,1,2
+39,30,14179,2,1,4,4,< 0,critical,unk_nil,man/self-em/HQ/off,4 to less than 7,BSSA/Life,own,fur_equ,male_single,none,none,1,1,2
+13,28,1797,2,1,3,1,< 0,critical,<100,unskilled (resident),less than 1,BSSA/Life,own,business,male_single,none,bank,2,1,2
+15,23,2511,1,1,1,4,< 0,repaid,<100,skilled / official,unemployed,Car/Other,rent,car_new,female,none,none,2,1,2
+12,37,1274,1,1,3,1,< 0,repaid,<100,unskilled (resident),less than 1,real estate,own,car_new,female,none,none,2,1,1
+21,26,5248,1,1,1,3,none,repaid,unk_nil,skilled / official,1 to less than 4,Car/Other,own,car_used,male_single,none,none,2,1,2
+15,33,3029,1,1,2,2,none,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,car_used,male_single,none,none,2,1,2
+6,49,428,1,1,2,1,< 0,repaid,<100,skilled / official,more than 7,BSSA/Life,own,fur_equ,female,none,bank,1,1,2
+18,23,976,1,1,1,2,< 0,repaid,<100,unskilled (resident),less than 1,Car/Other,own,car_new,female,none,none,2,1,1
+12,23,841,1,1,2,4,0 to 200,repaid,101 to 500,unskilled (resident),4 to less than 7,real estate,rent,business,female,none,none,2,1,2
+30,25,5771,2,1,4,2,none,critical,<100,skilled / official,4 to less than 7,Car/Other,own,rad_tel,female,none,none,2,1,2
+12,55,1555,2,2,4,4,none,delayed,>1000,skilled / official,more than 7,UNK/None,free,repairs,male_single,none,none,2,1,1
+24,32,1285,1,1,4,4,< 0,repaid,unk_nil,skilled / official,4 to less than 7,UNK/None,rent,car_new,female,none,none,2,1,1
+6,74,1299,3,2,1,1,> 201,critical,<100,unemp / unskill (non-res),1 to less than 4,real estate,own,car_new,male_single,none,none,2,2,2
+15,39,1271,2,1,3,4,> 201,critical,unk_nil,skilled / official,1 to less than 4,UNK/None,free,rad_tel,male_single,none,none,1,1,1
+24,31,1393,1,1,2,2,none,repaid,<100,skilled / official,1 to less than 4,real estate,own,car_new,male_single,guarantor,none,1,1,2
+12,35,691,2,1,4,3,< 0,critical,<100,skilled / official,more than 7,BSSA/Life,own,car_new,male_single,none,none,2,1,1
+15,59,5045,1,1,1,4,none,critical,unk_nil,skilled / official,more than 7,Car/Other,own,car_new,female,none,none,1,1,2
+18,24,2124,2,1,4,4,< 0,critical,<100,skilled / official,1 to less than 4,real estate,rent,fur_equ,female,none,none,2,1,1
+12,24,2214,1,1,4,3,< 0,repaid,<100,unskilled (resident),1 to less than 4,BSSA/Life,own,rad_tel,male_single,none,none,2,1,2
+21,30,12680,1,1,4,4,none,critical,unk_nil,man/self-em/HQ/off,more than 7,UNK/None,free,car_new,male_single,none,none,1,1,1
+24,27,2463,2,1,4,3,none,critical,101 to 500,skilled / official,4 to less than 7,BSSA/Life,own,car_new,male_mw,none,none,1,1,2
+12,40,1155,2,1,3,3,0 to 200,repaid,<100,unskilled (resident),more than 7,real estate,own,rad_tel,male_mw,guarantor,bank,2,1,2
+30,31,3108,1,1,2,4,< 0,repaid,<100,unskilled (resident),less than 1,BSSA/Life,own,fur_equ,male_ds,none,none,2,1,1
+10,31,2901,1,1,1,4,none,repaid,unk_nil,skilled / official,less than 1,real estate,rent,car_used,female,none,none,2,1,2
+12,28,3617,3,1,1,4,0 to 200,critical,<100,skilled / official,more than 7,Car/Other,rent,fur_equ,male_single,none,none,1,1,2
+12,63,1655,2,1,2,4,none,critical,<100,unskilled (resident),more than 7,real estate,own,rad_tel,male_single,none,none,1,1,2
+24,26,2812,1,1,2,4,< 0,repaid,unk_nil,skilled / official,more than 7,real estate,rent,car_used,female,none,none,2,1,2
+36,25,8065,2,1,3,2,< 0,critical,<100,man/self-em/HQ/off,1 to less than 4,UNK/None,own,edu,female,none,none,1,1,1
+21,36,3275,1,1,1,4,none,critical,<100,man/self-em/HQ/off,more than 7,Car/Other,own,car_used,male_single,none,none,1,1,2
+24,52,2223,2,1,4,4,none,critical,101 to 500,skilled / official,more than 7,BSSA/Life,own,rad_tel,male_single,none,bank,2,1,2
+12,66,1480,3,1,2,4,> 201,critical,501 to 1000,unemp / unskill (non-res),unemployed,UNK/None,free,car_new,male_single,none,bank,2,1,2
+24,25,1371,1,1,4,4,< 0,repaid,unk_nil,skilled / official,1 to less than 4,real estate,rent,car_new,female,none,none,2,1,1
+36,37,3535,2,1,4,4,none,critical,<100,skilled / official,4 to less than 7,Car/Other,own,car_new,male_single,none,none,1,1,2
+18,25,3509,1,1,4,1,< 0,repaid,<100,skilled / official,4 to less than 7,real estate,own,rad_tel,female,guarantor,none,2,1,2
+36,38,5711,2,1,4,2,none,critical,>1000,man/self-em/HQ/off,more than 7,Car/Other,own,car_used,male_single,none,none,1,1,2
+18,67,3872,1,1,2,4,0 to 200,repaid,<100,skilled / official,unemployed,Car/Other,own,repairs,female,none,none,1,1,2
+39,25,4933,2,1,2,2,0 to 200,critical,<100,skilled / official,4 to less than 7,real estate,own,rad_tel,male_single,guarantor,none,2,1,1
+24,60,1940,1,1,4,4,none,critical,>1000,skilled / official,more than 7,real estate,own,car_new,male_single,none,none,1,1,2
+12,31,1410,1,1,2,2,0 to 200,fully repaid,<100,unskilled (resident),1 to less than 4,real estate,own,retain,male_single,none,none,1,1,2
+12,23,836,1,1,4,2,0 to 200,repaid,101 to 500,unskilled (resident),less than 1,BSSA/Life,own,car_new,female,none,bank,2,1,1
+20,60,6468,1,1,1,4,0 to 200,repaid,unk_nil,man/self-em/HQ/off,unemployed,real estate,own,car_used,male_ds,none,none,1,1,2
+18,35,1941,1,1,4,2,0 to 200,repaid,>1000,unskilled (resident),1 to less than 4,BSSA/Life,own,business,male_single,none,none,1,1,2
+22,40,2675,1,1,3,4,none,repaid,501 to 1000,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+48,38,2751,2,2,4,3,none,critical,unk_nil,skilled / official,more than 7,Car/Other,own,car_used,male_single,none,none,1,1,2
+48,50,6224,1,1,4,4,0 to 200,delayed,<100,skilled / official,more than 7,UNK/None,free,edu,male_single,none,none,2,1,1
+40,27,5998,1,1,4,3,< 0,critical,<100,skilled / official,1 to less than 4,UNK/None,own,edu,male_single,none,bank,1,1,1
+21,39,1188,1,2,2,4,0 to 200,repaid,<100,skilled / official,more than 7,BSSA/Life,own,business,female,none,none,2,1,1
+24,41,6313,1,2,3,4,none,repaid,unk_nil,man/self-em/HQ/off,more than 7,Car/Other,own,car_used,male_single,none,none,1,1,2
+6,27,1221,2,1,1,2,none,critical,unk_nil,skilled / official,1 to less than 4,BSSA/Life,own,fur_equ,male_mw,none,none,2,1,2
+24,51,2892,1,1,3,4,> 201,repaid,<100,skilled / official,more than 7,UNK/None,free,fur_equ,male_ds,none,none,2,1,2
+24,32,3062,1,1,4,3,none,repaid,501 to 1000,skilled / official,more than 7,UNK/None,rent,fur_equ,male_single,none,none,1,1,2
+9,22,2301,1,1,2,4,none,repaid,101 to 500,skilled / official,less than 1,BSSA/Life,rent,fur_equ,female,none,none,2,1,2
+18,51,7511,1,2,1,4,< 0,repaid,unk_nil,skilled / official,more than 7,BSSA/Life,free,car_used,male_single,none,none,1,1,1
+12,22,1258,2,1,2,4,none,critical,<100,unskilled (resident),less than 1,BSSA/Life,rent,fur_equ,female,none,none,2,1,2
+24,54,717,2,1,4,4,none,delayed,unk_nil,skilled / official,more than 7,Car/Other,own,car_new,male_mw,none,none,1,1,2
+9,35,1549,1,1,4,2,0 to 200,repaid,unk_nil,unemp / unskill (non-res),less than 1,real estate,own,car_new,male_single,none,none,2,1,2
+24,54,1597,2,2,4,4,none,critical,<100,skilled / official,more than 7,UNK/None,free,edu,male_single,none,none,2,1,2
+18,48,1795,2,1,3,4,0 to 200,critical,<100,unskilled (resident),more than 7,real estate,rent,rad_tel,female,guarantor,bank,1,1,2
+20,24,4272,2,1,1,4,< 0,critical,<100,skilled / official,more than 7,BSSA/Life,own,fur_equ,female,none,none,2,1,2
+12,35,976,2,1,4,4,none,critical,unk_nil,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+12,24,7472,1,1,1,2,0 to 200,repaid,unk_nil,unemp / unskill (non-res),unemployed,real estate,rent,car_new,female,none,none,2,1,2
+36,24,9271,1,1,2,1,< 0,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,car_new,male_single,none,none,1,1,1
+6,26,590,1,1,3,3,0 to 200,repaid,<100,unskilled (resident),less than 1,real estate,own,rad_tel,male_mw,none,none,2,2,2
+12,65,930,4,1,4,4,none,critical,unk_nil,skilled / official,more than 7,real estate,own,rad_tel,male_single,none,none,2,1,2
+42,55,9283,1,1,1,2,0 to 200,fully repaid here,<100,man/self-em/HQ/off,unemployed,UNK/None,free,car_used,male_single,none,bank,1,1,2
+15,26,1778,2,1,2,1,0 to 200,fully repaid,<100,unemp / unskill (non-res),less than 1,real estate,rent,car_new,female,none,none,2,1,1
+8,26,907,1,1,3,2,0 to 200,repaid,<100,skilled / official,less than 1,real estate,own,business,male_mw,none,none,1,1,2
+6,28,484,1,1,3,3,0 to 200,repaid,<100,unskilled (resident),4 to less than 7,real estate,own,rad_tel,male_mw,guarantor,bank,2,1,2
+36,24,9629,2,1,4,4,< 0,critical,<100,skilled / official,4 to less than 7,Car/Other,own,car_used,male_single,none,none,1,1,1
+48,54,3051,1,1,3,4,< 0,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,dom_app,male_single,none,none,2,1,1
+48,46,3931,1,2,4,4,< 0,repaid,<100,skilled / official,4 to less than 7,UNK/None,free,car_new,male_single,none,none,2,1,1
+36,54,7432,1,1,2,2,0 to 200,delayed,<100,skilled / official,1 to less than 4,BSSA/Life,rent,car_new,female,none,none,2,1,2
+6,62,1338,1,1,1,4,none,repaid,501 to 1000,skilled / official,1 to less than 4,real estate,own,dom_app,male_ds,none,none,2,1,2
+6,24,1554,2,1,1,2,none,critical,<100,skilled / official,4 to less than 7,Car/Other,rent,rad_tel,female,none,none,1,1,2
+36,43,15857,1,1,2,3,< 0,repaid,<100,man/self-em/HQ/off,unemployed,Car/Other,own,car_used,male_ds,coapplicant,none,2,1,2
+18,26,1345,1,1,4,3,< 0,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,male_mw,none,bank,2,1,1
+12,27,1101,2,1,3,2,none,repaid,<100,skilled / official,1 to less than 4,real estate,own,car_new,male_mw,none,none,1,1,2
+12,24,3016,1,1,3,1,> 201,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,male_mw,none,none,2,1,2
+36,41,2712,1,2,2,2,< 0,repaid,<100,skilled / official,more than 7,BSSA/Life,own,fur_equ,male_single,none,bank,2,1,1
+8,47,731,2,1,4,4,< 0,critical,<100,unskilled (resident),more than 7,real estate,own,car_new,male_single,none,none,2,1,2
+18,35,3780,2,1,3,2,none,critical,<100,man/self-em/HQ/off,less than 1,Car/Other,own,fur_equ,male_ds,none,none,1,1,2
+21,30,1602,2,1,4,3,< 0,critical,<100,skilled / official,more than 7,Car/Other,own,car_new,male_mw,none,none,1,1,2
+18,33,3966,3,1,1,4,< 0,critical,<100,skilled / official,more than 7,real estate,rent,car_new,female,none,bank,1,1,1
+18,36,4165,2,2,2,2,none,fully repaid,<100,skilled / official,1 to less than 4,Car/Other,own,business,male_single,none,stores,2,1,1
+36,47,8335,1,1,3,4,< 0,repaid,unk_nil,skilled / official,more than 7,UNK/None,free,car_used,male_single,none,none,2,1,1
+48,38,6681,1,2,4,4,0 to 200,delayed,unk_nil,skilled / official,1 to less than 4,UNK/None,free,business,male_single,none,none,1,1,2
+24,44,2375,2,2,4,2,none,delayed,501 to 1000,skilled / official,1 to less than 4,Car/Other,own,business,male_single,none,none,1,1,2
+18,23,1216,1,1,4,3,< 0,repaid,<100,skilled / official,less than 1,Car/Other,rent,car_new,female,none,none,1,1,1
+45,29,11816,2,1,2,4,< 0,fully repaid,<100,skilled / official,more than 7,Car/Other,rent,business,male_single,none,none,2,1,1
+24,42,5084,1,1,2,4,0 to 200,repaid,unk_nil,skilled / official,more than 7,Car/Other,own,rad_tel,female,none,none,1,1,2
+15,25,2327,1,1,2,3,> 201,repaid,<100,unskilled (resident),less than 1,real estate,own,rad_tel,female,none,none,2,1,1
+12,48,1082,2,1,4,4,< 0,fully repaid,<100,skilled / official,1 to less than 4,Car/Other,own,car_new,male_single,none,bank,2,1,1
+12,21,886,1,1,4,2,none,repaid,unk_nil,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,none,2,1,2
+4,23,601,1,2,1,3,none,repaid,<100,unskilled (resident),less than 1,real estate,rent,fur_equ,female,none,none,2,1,2
+24,63,2957,2,1,4,4,< 0,critical,<100,skilled / official,more than 7,BSSA/Life,own,car_used,male_single,none,none,1,1,2
+24,46,2611,2,1,4,3,none,critical,<100,skilled / official,more than 7,real estate,own,rad_tel,male_mw,coapplicant,none,2,1,2
+36,29,5179,1,1,4,2,< 0,repaid,<100,skilled / official,4 to less than 7,BSSA/Life,own,fur_equ,male_single,none,none,2,1,1
+21,28,2993,2,1,3,2,none,delayed,<100,unskilled (resident),1 to less than 4,real estate,own,car_used,male_single,none,stores,2,1,2
+18,23,1943,1,1,4,4,none,repaid,<100,skilled / official,less than 1,real estate,own,repairs,female,none,none,2,1,1
+24,50,1559,1,1,4,4,none,fully repaid here,<100,skilled / official,4 to less than 7,Car/Other,own,business,male_single,none,bank,1,1,2
+18,47,3422,3,2,4,4,none,repaid,<100,skilled / official,more than 7,BSSA/Life,own,fur_equ,male_single,none,bank,1,1,2
+21,35,3976,1,1,2,3,0 to 200,repaid,unk_nil,skilled / official,4 to less than 7,Car/Other,own,fur_equ,male_single,none,none,1,1,2
+18,68,6761,2,1,2,4,none,repaid,unk_nil,skilled / official,1 to less than 4,Car/Other,rent,car_new,male_single,none,none,2,1,1
+24,28,1249,1,1,4,2,none,repaid,<100,skilled / official,less than 1,real estate,own,car_new,male_mw,none,none,2,1,2
+9,59,1364,1,1,3,4,< 0,repaid,<100,skilled / official,4 to less than 7,real estate,own,rad_tel,male_single,none,none,2,1,2
+12,57,709,1,1,4,4,< 0,repaid,<100,unskilled (resident),more than 7,real estate,own,rad_tel,male_single,none,stores,2,1,1
+20,33,2235,2,1,4,2,< 0,critical,<100,skilled / official,1 to less than 4,BSSA/Life,rent,car_new,male_mw,guarantor,bank,2,2,1
+24,43,4042,2,1,3,4,none,critical,unk_nil,skilled / official,4 to less than 7,BSSA/Life,own,car_used,male_single,none,none,1,1,2
+15,35,1471,2,1,4,4,none,critical,<100,skilled / official,1 to less than 4,UNK/None,free,rad_tel,male_single,none,none,1,1,2
+18,32,1442,2,2,4,4,< 0,fully repaid here,<100,unskilled (resident),4 to less than 7,UNK/None,free,car_new,male_single,none,none,2,1,1
+36,45,10875,2,2,2,2,none,delayed,<100,skilled / official,more than 7,Car/Other,own,car_new,male_single,none,none,1,1,2
+24,33,1474,1,1,4,3,none,repaid,101 to 500,skilled / official,less than 1,real estate,own,car_new,male_mw,none,none,1,1,2
+10,40,894,1,1,4,3,none,repaid,unk_nil,skilled / official,4 to less than 7,BSSA/Life,own,retain,female,none,none,1,1,2
+15,28,3343,1,1,4,2,none,critical,<100,skilled / official,1 to less than 4,UNK/None,free,fur_equ,male_single,none,none,1,1,2
+15,29,3959,1,1,3,2,< 0,repaid,<100,skilled / official,1 to less than 4,BSSA/Life,own,car_new,female,none,none,1,1,1
+9,26,3577,1,2,1,2,none,repaid,101 to 500,skilled / official,1 to less than 4,real estate,rent,car_new,male_single,guarantor,none,2,2,2
+24,27,5804,2,1,4,2,none,critical,>1000,skilled / official,1 to less than 4,real estate,own,car_used,male_single,none,none,2,1,2
+18,28,2169,1,1,4,2,none,delayed,<100,skilled / official,1 to less than 4,Car/Other,own,business,male_mw,none,none,1,1,1
+24,35,2439,1,1,4,4,< 0,repaid,<100,skilled / official,less than 1,real estate,own,rad_tel,female,none,none,1,1,1
+27,32,4526,2,2,4,2,none,critical,>1000,unskilled (resident),less than 1,real estate,own,fur_equ,male_single,none,stores,1,1,2
+10,25,2210,1,1,2,2,none,repaid,<100,unskilled (resident),1 to less than 4,real estate,rent,fur_equ,male_single,none,bank,2,1,1
+15,20,2221,1,1,2,4,none,repaid,501 to 1000,skilled / official,1 to less than 4,Car/Other,rent,fur_equ,female,none,none,2,1,2
+18,27,2389,1,1,4,1,< 0,repaid,<100,skilled / official,less than 1,Car/Other,own,rad_tel,female,none,stores,2,1,2
+12,42,3331,1,1,2,4,none,critical,<100,skilled / official,more than 7,BSSA/Life,own,fur_equ,male_single,none,stores,2,1,2
+36,37,7409,2,1,3,2,none,repaid,unk_nil,skilled / official,more than 7,BSSA/Life,own,business,male_single,none,none,2,1,2
+12,24,652,1,1,4,4,< 0,repaid,<100,skilled / official,more than 7,BSSA/Life,rent,fur_equ,female,none,none,2,1,2
+36,40,7678,2,1,2,4,none,delayed,501 to 1000,skilled / official,4 to less than 7,Car/Other,own,fur_equ,female,none,none,1,1,2
+6,46,1343,2,2,1,4,> 201,critical,<100,skilled / official,more than 7,real estate,own,car_new,male_single,none,none,2,2,2
+24,26,1382,2,1,4,1,< 0,critical,101 to 500,skilled / official,4 to less than 7,real estate,own,business,male_single,none,none,1,1,2
+15,24,874,1,1,4,1,none,repaid,unk_nil,skilled / official,less than 1,real estate,own,dom_app,female,none,none,2,1,2
+12,29,3590,1,2,2,2,< 0,repaid,<100,unskilled (resident),1 to less than 4,BSSA/Life,own,fur_equ,male_single,coapplicant,none,2,1,2
+11,40,1322,2,1,4,4,0 to 200,critical,>1000,skilled / official,1 to less than 4,Car/Other,own,car_new,female,none,none,2,1,2
+18,36,1940,1,1,3,4,< 0,fully repaid here,<100,man/self-em/HQ/off,less than 1,UNK/None,free,rad_tel,male_single,coapplicant,bank,1,1,2
+36,28,3595,1,1,4,2,none,repaid,<100,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+9,27,1422,1,1,3,2,< 0,repaid,<100,man/self-em/HQ/off,less than 1,UNK/None,free,car_new,male_single,none,none,1,1,1
+30,36,6742,2,1,2,3,none,critical,unk_nil,skilled / official,4 to less than 7,BSSA/Life,own,rad_tel,male_single,none,none,2,1,2
+24,38,7814,1,1,3,3,none,repaid,<100,man/self-em/HQ/off,4 to less than 7,Car/Other,own,car_used,male_single,none,none,1,1,2
+24,48,9277,1,1,2,4,none,repaid,unk_nil,skilled / official,1 to less than 4,UNK/None,free,car_used,male_ds,none,none,1,1,2
+30,36,2181,2,1,4,4,0 to 200,critical,unk_nil,skilled / official,more than 7,real estate,own,car_new,male_single,none,none,2,1,2
+18,65,1098,2,1,4,4,none,critical,<100,unemp / unskill (non-res),unemployed,Car/Other,own,rad_tel,female,none,none,2,1,2
+24,43,4057,1,1,3,3,0 to 200,repaid,<100,skilled / official,4 to less than 7,Car/Other,own,fur_equ,male_ds,none,none,1,1,1
+12,53,795,1,1,4,4,< 0,repaid,<100,skilled / official,less than 1,BSSA/Life,own,edu,female,none,none,2,1,1
+24,34,2825,2,2,4,3,0 to 200,critical,unk_nil,skilled / official,4 to less than 7,UNK/None,own,business,male_single,none,none,1,1,2
+48,23,15672,1,1,2,2,0 to 200,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,business,male_single,none,none,1,1,1
+36,34,6614,2,1,4,4,none,critical,<100,man/self-em/HQ/off,more than 7,Car/Other,own,car_new,male_single,none,none,1,1,2
+28,40,7824,2,2,3,4,none,fully repaid here,unk_nil,skilled / official,less than 1,real estate,rent,car_used,male_single,guarantor,bank,1,1,2
+27,43,2442,4,2,4,4,< 0,critical,<100,man/self-em/HQ/off,more than 7,Car/Other,own,business,male_single,none,stores,1,1,2
+15,46,1829,2,1,4,4,none,critical,<100,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+12,38,2171,2,1,4,4,< 0,critical,<100,unskilled (resident),1 to less than 4,BSSA/Life,own,car_new,male_single,none,bank,2,2,2
+36,34,5800,2,1,3,4,0 to 200,critical,<100,skilled / official,1 to less than 4,Car/Other,own,car_used,male_single,none,none,1,1,2
+18,29,1169,2,1,4,3,none,critical,unk_nil,skilled / official,1 to less than 4,BSSA/Life,own,rad_tel,male_single,none,none,1,1,2
+36,31,8947,1,2,3,2,none,delayed,unk_nil,man/self-em/HQ/off,4 to less than 7,Car/Other,own,car_used,male_single,none,stores,1,1,2
+21,28,2606,1,1,4,4,< 0,repaid,<100,man/self-em/HQ/off,less than 1,BSSA/Life,rent,rad_tel,female,none,none,1,1,2
+12,35,1592,1,1,3,2,none,critical,>1000,skilled / official,4 to less than 7,BSSA/Life,own,fur_equ,female,none,none,2,2,2
+15,33,2186,1,1,1,4,none,repaid,unk_nil,unskilled (resident),4 to less than 7,real estate,rent,fur_equ,female,none,bank,2,1,2
+18,42,4153,1,1,2,3,< 0,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,fur_equ,male_single,coapplicant,none,2,1,1
+16,43,2625,1,1,2,4,< 0,critical,<100,skilled / official,more than 7,BSSA/Life,rent,car_new,male_single,guarantor,bank,1,1,1
+20,44,3485,2,1,2,4,none,critical,unk_nil,skilled / official,less than 1,real estate,own,car_new,male_ds,none,none,1,1,2
+36,42,10477,2,1,2,4,none,critical,unk_nil,skilled / official,more than 7,UNK/None,free,car_used,male_single,none,none,2,1,2
+15,40,1386,1,1,4,2,none,repaid,unk_nil,skilled / official,1 to less than 4,real estate,rent,rad_tel,male_mw,none,none,1,1,2
+24,36,1278,1,1,4,1,none,repaid,<100,man/self-em/HQ/off,more than 7,real estate,own,rad_tel,male_single,none,none,1,1,2
+12,20,1107,1,2,2,2,< 0,repaid,<100,man/self-em/HQ/off,1 to less than 4,real estate,rent,rad_tel,male_single,none,none,1,1,2
+21,24,3763,1,1,2,2,< 0,repaid,unk_nil,unskilled (resident),4 to less than 7,real estate,own,car_new,male_single,coapplicant,none,2,2,2
+36,27,3711,1,1,2,2,0 to 200,repaid,unk_nil,skilled / official,1 to less than 4,Car/Other,own,edu,male_mw,none,none,2,1,2
+15,46,3594,2,1,1,2,none,delayed,<100,unskilled (resident),less than 1,BSSA/Life,own,car_used,female,none,none,2,1,2
+9,33,3195,1,1,1,2,0 to 200,repaid,unk_nil,unskilled (resident),1 to less than 4,real estate,own,car_new,female,none,none,2,1,2
+36,34,4454,2,1,4,4,none,delayed,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,female,none,none,2,1,2
+24,25,4736,1,1,2,4,0 to 200,critical,<100,unskilled (resident),less than 1,Car/Other,own,fur_equ,female,none,bank,2,1,1
+30,25,2991,1,1,2,4,0 to 200,repaid,unk_nil,skilled / official,more than 7,Car/Other,own,rad_tel,female,none,none,2,1,2
+11,28,2142,1,1,1,2,none,repaid,>1000,skilled / official,more than 7,real estate,own,business,male_ds,none,none,1,1,2
+24,31,3161,1,1,4,2,< 0,fully repaid here,<100,skilled / official,1 to less than 4,BSSA/Life,rent,business,male_single,none,none,1,1,1
+48,32,18424,1,1,1,2,0 to 200,fully repaid,<100,man/self-em/HQ/off,1 to less than 4,BSSA/Life,own,car_used,female,none,bank,1,2,1
+10,32,2848,1,2,1,2,none,repaid,101 to 500,skilled / official,1 to less than 4,real estate,own,car_used,male_single,coapplicant,none,2,1,2
+6,68,14896,1,1,1,4,< 0,repaid,<100,man/self-em/HQ/off,more than 7,UNK/None,own,car_new,male_single,none,bank,1,1,1
+24,33,2359,1,1,1,1,< 0,repaid,101 to 500,skilled / official,unemployed,BSSA/Life,own,fur_equ,male_ds,none,none,2,1,1
+24,39,3345,1,1,4,2,< 0,repaid,<100,man/self-em/HQ/off,more than 7,BSSA/Life,rent,fur_equ,male_single,none,none,1,1,1
+18,28,1817,2,1,4,2,none,critical,<100,skilled / official,1 to less than 4,UNK/None,own,fur_equ,female,none,none,2,1,2
+48,37,12749,1,1,4,1,none,delayed,501 to 1000,man/self-em/HQ/off,4 to less than 7,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+9,22,1366,1,1,3,4,< 0,repaid,<100,skilled / official,less than 1,BSSA/Life,rent,rad_tel,female,none,none,2,1,1
+12,30,2002,1,2,3,4,0 to 200,repaid,<100,skilled / official,4 to less than 7,BSSA/Life,rent,car_new,male_single,none,none,1,1,2
+24,55,6872,1,1,2,1,< 0,fully repaid here,<100,skilled / official,less than 1,BSSA/Life,own,fur_equ,male_ds,none,bank,1,1,1
+12,46,697,2,1,4,2,< 0,fully repaid here,<100,skilled / official,less than 1,Car/Other,own,car_new,male_single,none,bank,1,1,1
+18,21,1049,1,1,4,4,< 0,critical,<100,skilled / official,less than 1,BSSA/Life,rent,fur_equ,female,none,none,2,1,2
+48,39,10297,3,2,4,4,< 0,repaid,<100,skilled / official,4 to less than 7,UNK/None,free,car_used,male_single,none,stores,1,1,1
+30,58,1867,1,1,4,4,none,repaid,unk_nil,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,1,1,2
+12,43,1344,2,2,4,2,< 0,delayed,<100,unskilled (resident),1 to less than 4,real estate,own,car_new,male_single,none,none,2,1,2
+24,24,1747,1,1,4,1,< 0,repaid,<100,unskilled (resident),less than 1,BSSA/Life,own,fur_equ,male_single,coapplicant,none,2,2,2
+9,22,1670,1,1,4,2,0 to 200,repaid,<100,skilled / official,less than 1,Car/Other,own,rad_tel,female,none,none,1,1,1
+9,30,1224,2,1,3,1,none,critical,<100,skilled / official,1 to less than 4,real estate,own,car_new,male_single,none,none,2,1,2
+12,42,522,2,2,4,4,none,critical,501 to 1000,skilled / official,more than 7,BSSA/Life,own,rad_tel,male_single,none,none,1,1,2
+12,23,1498,1,1,4,1,< 0,repaid,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,bank,2,1,2
+30,30,1919,2,1,4,3,0 to 200,delayed,101 to 500,man/self-em/HQ/off,less than 1,UNK/None,own,rad_tel,male_single,none,stores,2,1,1
+9,28,745,1,1,3,2,> 201,repaid,<100,unskilled (resident),1 to less than 4,real estate,own,rad_tel,female,none,none,2,1,1
+6,30,2063,1,1,4,3,0 to 200,repaid,<100,man/self-em/HQ/off,less than 1,Car/Other,rent,rad_tel,male_mw,none,none,1,1,2
+60,42,6288,1,1,4,4,0 to 200,repaid,<100,skilled / official,1 to less than 4,UNK/None,free,edu,male_single,none,none,2,1,1
+24,46,6842,2,2,2,4,none,critical,unk_nil,man/self-em/HQ/off,1 to less than 4,BSSA/Life,own,car_used,male_single,none,none,1,1,2
+12,45,3527,1,2,2,3,none,repaid,unk_nil,man/self-em/HQ/off,less than 1,BSSA/Life,own,car_new,male_single,none,none,1,1,2
+10,31,1546,1,2,3,2,none,repaid,<100,unskilled (resident),1 to less than 4,real estate,own,car_new,male_single,none,none,2,2,2
+24,31,929,1,1,4,2,none,repaid,unk_nil,skilled / official,4 to less than 7,Car/Other,own,fur_equ,male_single,none,stores,1,1,2
+4,42,1455,3,2,2,1,none,critical,<100,unskilled (resident),4 to less than 7,real estate,own,car_new,male_single,none,none,2,1,2
+15,46,1845,1,1,4,1,< 0,repaid,<100,skilled / official,less than 1,BSSA/Life,rent,fur_equ,female,guarantor,none,2,1,2
+48,30,8358,2,1,1,1,0 to 200,fully repaid,501 to 1000,skilled / official,less than 1,Car/Other,own,car_new,female,none,none,2,1,2
+24,30,3349,1,2,4,4,< 0,fully repaid here,501 to 1000,skilled / official,less than 1,UNK/None,free,fur_equ,male_single,none,none,1,1,1
+12,38,2859,1,1,4,4,none,repaid,unk_nil,man/self-em/HQ/off,unemployed,UNK/None,own,car_new,male_single,none,none,1,1,2
+18,43,1533,1,2,4,1,none,repaid,<100,unskilled (resident),less than 1,BSSA/Life,own,fur_equ,male_mw,coapplicant,none,2,1,1
+24,31,3621,2,1,2,4,none,repaid,101 to 500,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,1
+18,40,3590,3,2,3,3,0 to 200,critical,<100,unemp / unskill (non-res),unemployed,Car/Other,own,business,male_mw,none,none,1,1,2
+36,24,2145,2,1,2,1,< 0,delayed,<100,skilled / official,4 to less than 7,Car/Other,own,business,male_single,none,none,1,1,1
+24,28,4113,1,1,3,4,0 to 200,repaid,501 to 1000,skilled / official,less than 1,Car/Other,rent,car_used,female,none,none,2,1,1
+36,26,10974,2,1,4,2,none,repaid,<100,man/self-em/HQ/off,unemployed,Car/Other,own,fur_equ,female,none,none,1,1,1
+12,29,1893,1,1,4,4,< 0,repaid,<100,skilled / official,1 to less than 4,BSSA/Life,own,car_new,female,guarantor,none,1,1,2
+24,57,1231,2,1,4,4,< 0,critical,>1000,man/self-em/HQ/off,more than 7,BSSA/Life,rent,rad_tel,female,none,none,1,1,2
+30,49,3656,2,1,4,4,> 201,critical,unk_nil,unskilled (resident),more than 7,BSSA/Life,own,rad_tel,male_single,none,stores,2,1,2
+9,37,1154,3,1,2,4,0 to 200,critical,<100,unskilled (resident),more than 7,real estate,own,rad_tel,male_single,none,none,2,1,2
+28,45,4006,1,1,3,2,< 0,repaid,<100,unskilled (resident),1 to less than 4,Car/Other,own,car_new,male_single,none,none,2,1,1
+24,30,3069,1,1,4,4,0 to 200,repaid,101 to 500,skilled / official,more than 7,UNK/None,free,fur_equ,male_single,none,none,2,1,2
+6,30,1740,2,1,2,2,none,critical,<100,skilled / official,more than 7,real estate,rent,rad_tel,male_mw,none,none,2,1,2
+21,47,2353,2,1,1,4,0 to 200,delayed,<100,skilled / official,1 to less than 4,BSSA/Life,own,car_new,male_ds,none,none,2,1,2
+15,29,3556,1,1,3,2,none,repaid,unk_nil,skilled / official,1 to less than 4,UNK/None,own,car_new,male_single,none,none,2,1,2
+24,35,2397,2,1,3,2,none,repaid,501 to 1000,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,bank,1,1,1
+6,22,454,1,1,3,1,0 to 200,repaid,<100,unskilled (resident),less than 1,BSSA/Life,own,repairs,male_mw,none,none,2,1,2
+30,26,1715,1,1,4,1,0 to 200,repaid,unk_nil,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,none,2,1,2
+27,23,2520,2,1,4,2,0 to 200,critical,501 to 1000,unskilled (resident),1 to less than 4,BSSA/Life,own,rad_tel,male_single,none,none,2,1,1
+15,54,3568,1,1,4,2,none,repaid,<100,man/self-em/HQ/off,more than 7,Car/Other,rent,rad_tel,female,none,bank,1,1,2
+42,29,7166,1,1,2,4,none,repaid,unk_nil,skilled / official,4 to less than 7,BSSA/Life,rent,rad_tel,male_mw,none,none,1,1,2
+11,40,3939,2,2,1,2,< 0,critical,<100,unskilled (resident),1 to less than 4,real estate,own,car_new,male_single,none,none,2,1,2
+15,22,1514,1,1,4,2,0 to 200,repaid,101 to 500,skilled / official,1 to less than 4,real estate,own,repairs,male_single,guarantor,none,2,1,2
+24,43,7393,1,2,1,4,none,repaid,<100,unskilled (resident),1 to less than 4,BSSA/Life,own,car_new,male_single,none,none,2,1,2
+24,29,1193,2,1,1,4,< 0,fully repaid here,<100,unemp / unskill (non-res),unemployed,UNK/None,rent,car_new,female,coapplicant,none,2,1,1
+60,36,7297,1,1,4,4,< 0,repaid,<100,skilled / official,more than 7,UNK/None,rent,business,male_single,coapplicant,none,2,1,1
+30,33,2831,1,1,4,2,none,critical,<100,skilled / official,1 to less than 4,Car/Other,own,rad_tel,female,none,none,1,1,2
+24,57,1258,1,1,3,3,> 201,repaid,501 to 1000,unskilled (resident),1 to less than 4,Car/Other,own,rad_tel,female,none,none,2,1,2
+6,64,753,1,1,2,3,0 to 200,repaid,<100,skilled / official,1 to less than 4,real estate,own,rad_tel,female,guarantor,none,2,1,2
+18,42,2427,2,1,4,2,0 to 200,delayed,unk_nil,skilled / official,more than 7,BSSA/Life,own,business,male_single,none,none,2,1,2
+24,47,2538,2,2,4,4,none,delayed,<100,unskilled (resident),more than 7,Car/Other,own,car_new,male_single,none,none,2,1,1
+15,25,1264,1,1,2,2,0 to 200,fully repaid here,101 to 500,skilled / official,1 to less than 4,BSSA/Life,rent,car_new,male_mw,none,none,2,1,1
+30,49,8386,1,1,2,2,0 to 200,critical,<100,skilled / official,4 to less than 7,BSSA/Life,own,fur_equ,male_single,none,none,2,1,1
+48,33,4844,1,1,3,2,none,repaid,<100,man/self-em/HQ/off,unemployed,Car/Other,rent,business,male_single,none,bank,1,1,1
+21,28,2923,1,1,1,1,> 201,repaid,101 to 500,man/self-em/HQ/off,1 to less than 4,Car/Other,own,car_new,female,none,bank,1,1,2
+36,26,8229,1,2,2,2,< 0,repaid,<100,skilled / official,1 to less than 4,BSSA/Life,own,car_used,male_single,none,none,2,1,1
+24,30,2028,2,1,2,2,none,critical,<100,unskilled (resident),4 to less than 7,BSSA/Life,own,fur_equ,male_single,none,none,2,1,2
+15,25,1433,2,1,4,3,< 0,critical,<100,skilled / official,1 to less than 4,BSSA/Life,rent,fur_equ,female,none,none,2,1,2
+42,33,6289,2,1,2,1,> 201,fully repaid,<100,skilled / official,less than 1,BSSA/Life,own,business,male_ds,none,none,2,1,2
+13,64,1409,1,1,2,4,none,repaid,101 to 500,skilled / official,unemployed,real estate,own,rad_tel,female,none,none,2,1,2
+24,29,6579,1,1,4,2,< 0,repaid,<100,man/self-em/HQ/off,unemployed,UNK/None,free,car_used,male_single,none,none,1,1,2
+24,48,1743,2,1,4,2,0 to 200,critical,<100,unskilled (resident),more than 7,BSSA/Life,own,rad_tel,male_single,none,none,2,1,2
+12,37,3565,2,2,2,1,none,critical,unk_nil,unskilled (resident),less than 1,BSSA/Life,own,edu,male_single,none,none,2,1,2
+15,34,1569,1,2,4,4,none,fully repaid here,101 to 500,unskilled (resident),more than 7,Car/Other,own,rad_tel,male_single,none,bank,2,1,2
+18,23,1936,2,1,2,4,< 0,repaid,unk_nil,unskilled (resident),4 to less than 7,Car/Other,rent,rad_tel,male_mw,none,none,2,1,2
+36,30,3959,1,1,4,3,< 0,repaid,<100,man/self-em/HQ/off,unemployed,BSSA/Life,own,fur_equ,male_single,none,none,1,1,2
+12,50,2390,1,1,4,3,none,repaid,unk_nil,skilled / official,more than 7,Car/Other,own,car_new,male_single,none,none,1,1,2
+12,31,1736,1,1,3,4,none,repaid,<100,unskilled (resident),4 to less than 7,real estate,own,fur_equ,female,none,none,2,1,2
+30,40,3857,1,1,4,4,< 0,repaid,<100,man/self-em/HQ/off,1 to less than 4,BSSA/Life,own,car_used,male_ds,none,none,1,1,2
+12,38,804,1,1,4,4,none,repaid,<100,skilled / official,more than 7,Car/Other,own,rad_tel,male_single,none,none,2,1,2
+45,23,1845,1,1,4,4,< 0,repaid,<100,skilled / official,1 to less than 4,UNK/None,free,rad_tel,male_single,none,none,1,1,1
+45,27,4576,1,1,3,4,0 to 200,critical,101 to 500,skilled / official,unemployed,Car/Other,own,car_used,male_single,none,none,2,1,2
